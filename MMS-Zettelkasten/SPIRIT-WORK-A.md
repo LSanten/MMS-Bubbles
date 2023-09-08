@@ -7,7 +7,7 @@ we need to learn how to "work with ourselves" which is the action that arises ou
 ![](media/2023-08-20 13-45 Pasted Image.png)
 #improvement #illustration : draw such that swirls create new tornados that have a still center
 
-
+--> the smaller and larger forms of working with ourselves relate to adaptive concentric circle ideas mentioned in the IPCC report AR6 [[ADAPT-CYCLES-A]]
 ## 
 #divergence #compression #creativity 
 ![](media/DD255F75-BCED-437A-ACC3-B650E2710B2A_1_105_c.jpeg)
