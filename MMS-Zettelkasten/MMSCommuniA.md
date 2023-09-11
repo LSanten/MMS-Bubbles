@@ -3,4 +3,4 @@
 ![](media/MMSCommuniA-2.png)
 ![](media/MMSCommuniA-3.png)
 
-#MMS
+#MMS #publicBubble
