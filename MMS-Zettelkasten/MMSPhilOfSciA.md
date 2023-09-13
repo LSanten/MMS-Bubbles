@@ -9,8 +9,10 @@
 ![](media/MMSPhilOfSciA_4.png)
 
 ![](media/MMSPhilOfSciA_5.png)
+- say "references" instead of sources
 
 ![](media/MMSPhilOfSciA_6.png)
+- add vanasupa & barabino reference
 #MMS #publicBubble
 
 
