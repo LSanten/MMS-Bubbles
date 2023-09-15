@@ -3,6 +3,7 @@
 ![](media/MMSPhilOfSciA_1.png)
 
 ![](media/MMSPhilOfSciA_2.png)
+"every form of acquiring knowledge is just a form of story telling that adhered to its own guidlines of validity"
 
 ![](media/MMSPhilOfSciA_3.png)
 
@@ -12,7 +13,10 @@
 - say "references" instead of sources
 
 ![](media/MMSPhilOfSciA_6.png)
-- add vanasupa & barabino reference
+(vanasupa & barabino 2021) 
+
+
+
 #MMS #publicBubble
 
 
