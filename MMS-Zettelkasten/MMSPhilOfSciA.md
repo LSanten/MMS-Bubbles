@@ -22,6 +22,6 @@
 
 ________
 #MMS #publicBubble
-#philosophyOfScience
+#philosophyOfScience #sticker
 ________
 McGilchrist, I. (2021). The Matter With Things: Our Brains, Our Delusions, and the Unmaking of the World (p. 1500). Perspectiva.
