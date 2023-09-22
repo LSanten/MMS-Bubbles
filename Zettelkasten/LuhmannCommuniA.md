@@ -1,0 +1,5 @@
+# It is not individuals but the structures through which they communicate that shape our world 
+Therefore, we might want to think about communication structures that allow for flow from more places to other places. 
+
+Excerpt from [[MESH-EJ-THESIS]] (page C-6):
+Niklas Luhmann “defended the quite novel thesis that, while social systems are self-organizing and self-re- producing systems, they do not consist of individuals—or roles or even acts, as commonly conceptualized—but exclu- sively of communications” (Geyer 2001) • I find this theory interesting because it points at the universal nature of information transfer • I might reason quickly that all forms of roles or concrete actions are artificial containers which prevent the ultimate communication with everything • but they also streamline communication because relating to the whole world can be quite overwhelming • this idea feeds into my emphasis on **integrating communication of more aspects of our lives into the collective sense-making (com- munication) process to arrive at deeper change**
