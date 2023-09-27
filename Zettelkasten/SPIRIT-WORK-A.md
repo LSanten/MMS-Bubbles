@@ -4,10 +4,10 @@ we can only work with others if we work know how to work with ourselves • the 
 
 we need to learn how to "work with ourselves" which is the action that arises out of the compression. i keep coming back to learning how "work with ourselves" - it seems essential in contributing to change but we mostly get taught knowledge but does not set us up to learn how to take notes, process emotions, explore ideas, deal with frustration in our work & life
 
-![](media/2023-08-20 13-45 Pasted Image.png)
+![](../media/2023-08-20 13-45 Pasted Image.png)
 #improvement #illustration : draw such that swirls create new tornados that have a still center
 
 --> the smaller and larger forms of working with ourselves relate to adaptive concentric circle ideas mentioned in the IPCC report AR6 [[ADAPT-CYCLES-A]]
 ## 
 #divergence #compression #creativity 
-![](media/DD255F75-BCED-437A-ACC3-B650E2710B2A_1_105_c.jpeg)
+![](../media/DD255F75-BCED-437A-ACC3-B650E2710B2A_1_105_c.jpeg)

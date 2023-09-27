@@ -10,7 +10,7 @@ Scott Berry Kaufmann
 ![](media/2023-09-19 10-49 Pasted Image.png)
 
 Manfred Max-Neef's fundamental human needs
-![](media/2023-09-19 10-51 Pasted Image.png)
+![](../media/2023-09-19 10-51 Pasted Image.png)
 
 ________
 What Maslow Missed in his Hierarchy of Needs - The Native Self Actualization Model: An Interview... - YouTube. (n.d.). Retrieved September 19, 2023, from https://www.youtube.com/watch?si=w8RpmQw7mYKtDfPb&v=ONTAefdVs5o&feature=youtu.be&themeRefresh=1

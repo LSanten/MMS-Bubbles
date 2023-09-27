@@ -1,4 +1,4 @@
 # history of science
 
 ## v1
-![](media/2023-08-20 14-18 Pasted Image.png)
+![](../media/2023-08-20 14-18 Pasted Image.png)
