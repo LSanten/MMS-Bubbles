@@ -13,6 +13,7 @@ allow users to choose between:
 
 - do not make this decision for the user when to charge the battery full all the way
 - do not always charge as fast as possible - let the user choose - #autonomy #care
+- have a setting to enable reminder to charge slightly below 50%
 
 
                                                        
