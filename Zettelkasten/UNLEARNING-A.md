@@ -4,5 +4,4 @@
 Singer (1972) argues that if we can prevent morally disastrous outcomes by sacrificing non-moral circumstances, we need to do that. However, we don't. So we need to complteley rewire our systems. Haven't watched the video beyond 5 minutes, but it worth understanding better
 https://www.youtube.com/watch?v=KVl5kMXz1vA 
 
-![](../media/cleanshot_2023-10-05-at-12-46-27@2x.png)
 #unlearning #morals #systems
