@@ -1,4 +1,4 @@
-# The systems capcity to be conduciveness to health is re-created in the systems that emerge from it  
+# The system's capacity to be conducive to health is re-created in the systems that emerge from it  
 
 
 
