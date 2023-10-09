@@ -5,7 +5,7 @@
 Apple advertisment with their fonts and style sharing:
 "We at Apple care about the longevity of our products their impact on our planet. For that reason, we are all working together to keep the health of our products as high as possible"
 
-## how I would change the interface
+## FEATURES - how I would change the interface
 allow users to choose between: 
 - charge as fast as possible ("I need to leave soon")
 - keep at a specific percentage best for battery health around half-charged ("I need to work from home for a few days")
@@ -14,6 +14,7 @@ allow users to choose between:
 - do not make this decision for the user when to charge the battery full all the way
 - do not always charge as fast as possible - let the user choose - #autonomy #care
 - have a setting to enable reminder to charge slightly below 50%
+- setting to automatically shut down device so it rests at night
 
 
                                                        
