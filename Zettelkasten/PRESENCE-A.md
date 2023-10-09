@@ -15,9 +15,16 @@ changes and allows us to operate from a new place (Tubali
 2019)"
 (Santen 2023)
 
+
+## educational practices based on contemplation and accessing embodied knowledge
+Zastavker & Venkatesh (2022) explore how to allow engineering students to act from a deeper place of knowledge through midfulness practices.
+
+Indigenous traditions emphasize how nature can be a teacher. And again, forms and movements around us become embodied knowledge of how to exist and be in this world. 
 ________
 SOURCES
 
 Brander, G. (2023, July 19). Effort is evidence of broken feedback loops. Subconscious. https://subconscious.substack.com/p/effort-is-evidence-of-broken-feedback
 
 Santen, L. (2023). How can we transform ourselves? (Spirituality & Ecological Justice). Final Paper for Environmental Justice Class (MESH). https://leonsanten.info/contemplatingChangeForEJ.html
+
+Zastavker, Y. V., & Venkatesh, M. J. (2022). Contemplating engineering and science: creating compassionate and empathetic learning spaces in engineering education. 2022 IEEE Frontiers in Education Conference (FIE), 1–5. https://doi.org/10.1109/FIE56618.2022.9962595
