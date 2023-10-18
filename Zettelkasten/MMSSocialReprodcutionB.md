@@ -1,12 +1,4 @@
-
-# Autopoiesis and the re-production of social systems 
-
-## Links from references
-- [1]- Haiven, & Khasnabish. (2014). Why social movements need the radical imagination. OpenDemocracy. https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/- [2] Khasnabish, D. A., & Haiven, M. (2014). The Radical Imagination: Social Movement Research in the Age of Austerity (p. 280). Zed Books.- [3] - Albert, M. (2016). Luhmann and systems theory (Vol. 1). Oxford University Press. https://doi.org/10.1093/acrefore/9780190228637.013.7- [4] - Luhmann, N., Schmidt, J. F. K., & Kieserling, A. (2017). Systemtheorie der Gesellschaft (Erste Auflage.). Suhrkamp.
-
-
-
-# The system's capacity to be conducive to health is re-created in the systems that emerge from it  
+# The system's capacity to be conducive to health & wellbeing is re-created in the systems that emerge from it  
 
 This is the autopoietic (self-reproducing) effect of social systems. As these systems are self-referential, the new structures they create carry the embedded values, beliefs, purpose etc. [[ONTOLOGICAL-PRIMITIVES]]. 
 
@@ -29,5 +21,6 @@ By re-connecting to and remembering our (collective) selves we can tune into emb
 ![](../media/MMSHealthAutopoiesis-merge-03.png)
 
 
-##
+## Our ability to connect with each other emerges autopoietically from our ability to relate to ourselves
 ![](../media/MMSHealthAutopoiesis-merge-04.png)
+Here, McGilchrist would say that shapes are a secondary phenomenon emerging from relationships [[MCGILCHRIST2021-VID]].
