@@ -7,9 +7,9 @@ The autopoietic view on life shines a light on the living, re-producing
 nature of systems that we create. A factory for airplanes, for instance, is
 an allopoietic system (that procudes something distinct from itself). The airplane factory and the machines in the airplane factory clearly produce something that is not part of the original system. However, as soon as we include the factory’s supply chains, the workers, mangagers, customers, investors, competitors into the total viable system, we can consider this system to be autopoietic. The larger system will strive to stay existent and re-create itself by exerting power to allow for its identity to continue to exist. 
 
-When we consider capitalism, it stands out to me that the military industrial complex is deeply intertwined with the extractive, profit-oriented economic process of late-state capitalism. Therefore, the keep each other alive and re-produce nutrients for each other's existence. 
+When we consider capitalism, it stands out to me that the military industrial complex is deeply intertwined with the extractive, profit-oriented economic process of late-state capitalism. They keep each other alive by re-producing their shared values through new social containers.
 
-See below how the military complex lives in synergy with the investment (stock) system to keep itself alive. Both capitalist stock investments and military efforts are rooted in value systems of extracting resources from other places by exerting power over people & land. These systems re-produce new companies, institutions, and social containers that keep their values & purpose alive. 
+See below how the military complex lives in synergy with the investment (stock) system to keep itself alive. Both capitalist stock investments and military efforts are rooted in value systems of extracting resources for profit from other places by exerting power over people & land. These systems re-produce new companies, institutions, and social containers that keep their values & purpose alive. Power over land & people = colonialism.
 
 ![](../media/cleanshot_2023-10-17-at-20-25-10@2x.png)
 
