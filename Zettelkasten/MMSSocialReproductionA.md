@@ -10,9 +10,9 @@ an allopoietic system that procudes something distinct from itself. The airplane
 When we consider capitalism, it is stands out to me that the military industrial complex is deeply intertwined with the extractive, profit-oriented economic process of late-state capitalism. Therefore, the keep each other alive and re-produce nutrients for each other's existence.
 
 ## What do we do to heal our world from the climate crisis?
-Based on the theory from above, it become obvious that extractive, violent conditiones let emerge violent actions. Therefore, I argue, we can only heal our planet by living healthy, balances lives ourselves. This includes the constant reflection on violence (aggressive language or transactional, reductive relationships) in our personal lives [[MMSSocialReprodcutionB]].
+Based on the theory from above, it become obvious that extractive, violent conditiones let emerge violent actions. Therefore, I argue, we can only heal our planet by living healthy, balances lives ourselves. This includes the constant reflection on violence (aggressive language or transactional, reductive relationships) in our personal lives. More on this in this post:  [[MMSSocialReprodcutionB]].
 
-## Original Post 
+## Original Post - MMSSocialReproductionA
 ![](../media/MMSSocialReproductionA-1.png) 
 
 ![](../media/MMSSocialReproductionA-2.png) 
