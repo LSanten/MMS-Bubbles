@@ -3,7 +3,7 @@
 **Links from the Post**
 - [1] - Haiven, & Khasnabish. (2014). Why social movements need the radical imagination. OpenDemocracy. https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/- [2] - Khasnabish, D. A., & Haiven, M. (2014). The Radical Imagination: Social Movement Research in the Age of Austerity (p. 280). Zed Books.- [3] - Albert, M. (2016). Luhmann and systems theory (Vol. 1). Oxford University Press. https://doi.org/10.1093/acrefore/9780190228637.013.7- [4] - Luhmann, N., Schmidt, J. F. K., & Kieserling, A. (2017). Systemtheorie der Gesellschaft (Erste Auflage.). Suhrkamp.
 
-The autopoietic view on life shines a light on the living, re-producing
+Understanding life as "autopoietic" shines a light on the living, re-producing
 nature of systems that we create. A factory for airplanes, for instance, is
 an allopoietic system (that procudes something distinct from itself). The airplane factory and the machines in the airplane factory clearly produce something that is not part of the original system. However, as soon as we include the factory’s supply chains, the workers, mangagers, customers, investors, competitors into the total viable system, we can consider this system to be autopoietic. The larger system will strive to stay existent and re-create itself by exerting power to allow for its identity to continue to exist. 
 
