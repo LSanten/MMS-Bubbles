@@ -3,6 +3,7 @@
 
 ![](../media/MMSCapitalismA-3.png)
 
+changes: add hashtag #quote ; add [..] where quote is skipped 
 
 ## Introduction to capitalism 
 "Capitalism is an economic system in which  employers, using privately owned capital, hire wage labor to produce commodities for the purpose of making a profit" (Andersson & Eriksson 2010, p.125)
