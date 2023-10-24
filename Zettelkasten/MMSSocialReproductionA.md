@@ -20,7 +20,7 @@ The idea that values, purpose, and the sense of the sacred (also called *ontolog
 ## What do we do to heal our world from the climate crisis?
 Based on the theory from above, it become obvious that extractive, violent conditiones let emerge new social structures and containers conducive to violence. Even if these systems are not aware of their roots, they will try to stay alive (conserve themselves). 
 
-Therefore, I argue, we can only heal our planet by living healthy, balanced lives. This includes the constant reflection on violence (aggressive language or transactional, reductive relationships) in our personal lives. More on integrating healing & regeneration into social systems is summarized in this post with ID [[MMSSocialReprodcutionB]].
+Therefore, I argue, we can only heal our planet by living healthy, balanced lives. This includes the constant reflection on violence (aggressive language or transactional, reductive relationships) in our personal lives. More on integrating healing & regeneration into social systems is summarized in this post with ID [[MMSAutopoiesisA]].
 
 ## Original Post - MMSSocialReproductionA
 ![](../media/MMSSocialReproductionA-1.png) 
