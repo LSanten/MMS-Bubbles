@@ -1,6 +1,6 @@
 
 # what is capitalism
-"Capitalism is an economic system in which  employers, using privately owned capital, hire wage labor to produce commodities for the purpose of making a profit" (Andersson & Eriksson 2010, p.125)
+"Capitalism is an economic system in which  employers, using privately owned capital, hire wage labor to produce commodities for the purpose of making a profit" (Andersson & Eriksson 2010, p.125) Also [[DICTATORSHIP-A]] for a definition of "workplace dictatorship."
 
 Another good book might be "how to be an anti-capitalist in the 21st centure" by Olin Wright.
 
