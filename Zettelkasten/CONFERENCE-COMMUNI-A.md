@@ -1,5 +1,1 @@
-# A list of ideas for improving conference or retreat style conversations
-
-- [[MARKET-CONF-A]]: create spaces and markets to share needs, offers, insights and cooperate 
-- [[COMMUNICATION-A]]: we should talk about how to talk
-- [[COMMUNIVATION]]
+# Tell people who participated or spoke up during a conference panel what you liked about their words and ways of speaking 
