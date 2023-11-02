@@ -13,11 +13,11 @@ This market could allow people to find answers to the following question:
 - what are particular *needs* of orgs or individuals?
 
 **how may we learn together?**
-- what are*questions* that emerged from the talks/conference?
-- what are core *insights/concepts* that emerged from the conference?
-- what are project *ideas/proposals* that surfaced during the event?
-- what are *unmet needs* that became clear during the event?
-- how could the conference could do better?
+- what *questions* emerged from the talks/conference?
+- what core *insights/concepts* emerged from the conference?
+- what project *ideas/proposals* surfaced during the event?
+- what *unmet needs* became clear during the event?
+- how could the conference do better?
 
 the list above is inspired by my design prototype concept with which I seek to share a variety of "bubbles" in the fields of ideas, insights, project proposals with my friends. 
 ![](../media/cleanshot_2023-11-01-at-11-45-46@2x.png)
