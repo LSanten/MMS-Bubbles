@@ -7,12 +7,11 @@ On a meta-level, it seems quite obvious to me that health is a generally unvalue
 ## General project & illustration idea
 I currenlty draw excitement from an internal vision to illustrate how a well-known company like Apple could talk to their users about maintenance of their devices, in particular their batteries. 
 
-**Illustration of pop ups in Apple font**: I imagine pop ups on phones and laptops that inform the user in clear and beautiful graphics that they have the ability to influence the health of their device. 
+🫧 **Illustration of pop ups in Apple font**: I imagine pop ups on phones and laptops that inform the user in clear and beautiful graphics that they have the ability to influence the health of their device. 
 
-**User interface desing concept to control battery parameters**: I imagine a different user interface that gives autonomy to the user to decide how to use their battery. This would allow users to keep the battery at a certain charge to minimize battery cycles instead of always fully charging it. Here, I have brainstormed a whole array of battery maintenance features that could be helpful to take care of the device (see FEATURES).
+🫧 **User interface desing concept to control battery parameters**: I imagine a different user interface that gives autonomy to the user to decide how to use their battery. This would allow users to keep the battery at a certain charge to minimize battery cycles instead of always fully charging it. Here, I have brainstormed a whole array of battery maintenance features that could be helpful to take care of the device (see FEATURES).
 
-**Aesthetics**
-In the past, I have played around with appropriating fonts and branding to strenthing the message. I similarly plan to use a sleek font on known user interface to convey how differently producers of products could communicate with the user. Below are examples of satirical illustrations that I created by modifying apple's web page. 
+🫧 **Aesthetics**: In the past, I have played around with appropriating fonts and branding to strenthing the message. I similarly plan to use a sleek font on known user interface to convey how differently producers of products could communicate with the user. Below are examples of satirical illustrations that I created by modifying apple's web page. 
 ![](../media/cleanshot_2023-11-02-at-15-01-44@2x.png)
 ![](../media/cleanshot_2023-11-02-at-15-02-54@2x.png)
 
