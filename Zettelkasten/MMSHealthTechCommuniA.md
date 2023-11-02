@@ -1,12 +1,26 @@
-# A proposal 
+# A proposal to change communication around and interface design for battery health
+
+I am observing the trend that the producers of tech products tell us very little about the maintenance needs that their products require. This exploration focuses on battery health because users can influence the helath of their devices the most by taking care of the device's battery. Furthermore, it is becoming well-known that lithium ion batteries are full of toxins and require large amounts of resource extraction. For these reasons, I chose to focus on exploring the potential of shifting toward a culture of talking about care-taking and health of our products. 
+
+On a meta-level, it seems quite obvious to me that health is a generally unvalued topic. While this design exploration concerns the health of devices, I reason that the void of talking about *how to care of our technological devices* stems from the absence of understanding how to practice care-taking and health-oriented cooperation in this current world. 
+
+## General project & illustration idea
+I currenlty draw excitement from an internal vision to illustrate how a well-known company like Apple could talk to their users about maintenance of their devices, in particular their batteries. 
+
+**Illustration of pop ups in Apple font**: I imagine pop ups on phones and laptops that inform the user in clear and beautiful graphics that they have the ability to influence the health of their device. 
+
+**User interface to control battery parameters**: I imagine a different user interface that gives autonomy to the user to decide how to use their battery. This would allow users to keep the battery at a certain charge to minimize battery cycles instead of always fully charging it. Here, I have brainstormed a whole array of battery maintenance features that could be helpful to take care of the device (see FEATURES).
+
 #proposal #idea
 
-- ## fun way to bring this message across:
+## fun way to bring this message across:
 Apple advertisment with their fonts and style sharing:
 "We at Apple care about the longevity of our products their impact on our planet. For that reason, we are all working together to keep the health of our products as high as possible"
 
-## FEATURES - how I would change the interface
-allow users to choose between: 
+## FEATURES - how I would change the battery maintenance interface
+These features give the autonomy back to the user to use the battery to serve their purpose and protect it from unnecessary charging if not needed.
+
+**allow users to choose between**: 
 - charge as fast as possible ("I need to leave soon")
 - keep at a specific percentage best for battery health around half-charged ("I need to work from home for a few days")
 - charge my battery as slowly/healthily as possible within certain time frame ("I need to leave tomorrow morning with a full charge")
