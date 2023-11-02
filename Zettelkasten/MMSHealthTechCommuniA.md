@@ -51,9 +51,9 @@ These features give the autonomy back to the user to use the battery to serve th
 Microsoft shares about 650 words on battery health [1]. This is decent but short if we consider that the user has the hightest ability to influence the laptop's health via battery care. 
 
 Apple [2], similar to Mircrosoft, emphasize that it's important to keep the battery healthy but do not give the user any option to control the cycles themselves. 
-**They provide plenty of options for reducing the energy usage of the product (brightness, things plugged into laptop) but do not talk about battery health management besides turning on the setting**
+**They provide plenty of options for reducing the energy usage of the product (brightness, things plugged into laptop) but do not provide battery health management settings.** They leave the responsibility to the user without giving the user any options to affect the behavior of the charger or battery. 
 
-They always say to store it at 50% so we don't we keep it at 50% unless we need to need a high charge? [3] 
+Apple, microsoft and other manufacturers always recommend to store their devices at 50% but there is no such feature to drain the battery to 50% or even set the charge level to that rate [3]. 
 
 
 
