@@ -1,22 +1,29 @@
-# IDEA: create a market to open space to surface meaningful "bubbles" of interest to the community and elicit conversation 
-This market could allow people to share the following:
+# IDEA: create a market space to network, surface insights & proposals, and interconnect movement efforts via collaboration 
+
+I see a demand for a networking tool that does not purely rely on emotional labor of one-on-one socializing. I see an opportunity to use a physical space (room, wall space, and physical props) to naturally elicit an in-peron & asynchronous networking mingling centered around written text, mapping, and personal interaction. 
+
+This market could allow people to find answers to the following question:
+
+**who else wants to connect over these shared interests?**
+- "I came here to connect with people who are interested in these *topics.*"
+- "contact me via this *phone number* through the conference to meet up"
 
 **how may we support each other?**
-- offers 
-- needs
+- what are *offers/services* from orgs or individuals?
+- what are particular *needs* of orgs or individuals?
 
-**how may we learn from and collaborate with each other?**
-- *questions* that emerged from the talks/conference
-- *insights/concepts* that seem important or have emerged from the conference
-- *ideas/proposals* regarding opportunties or collaboration
-- *unmet needs* from the event
-- how the conference could do better 
+**how may we learn together?**
+- what are*questions* that emerged from the talks/conference?
+- what are core *insights/concepts* that emerged from the conference?
+- what are project *ideas/proposals* that surfaced during the event?
+- what are *unmet needs* that became clear during the event?
+- how could the conference could do better?
 
-the list above is inspired by my design prototype for my personal "bubble" sharing and collaboration website. 
+the list above is inspired by my design prototype concept with which I seek to share a variety of "bubbles" in the fields of ideas, insights, project proposals with my friends. 
 ![](../media/cleanshot_2023-11-01-at-11-45-46@2x.png)
 
 
-## Concrete ideas: what forms of wall space or room space to create
+## Concrete ideas: what forms of wall space or room space could we create?
 Below is a collection of space design concepts to enable the asynchronous (not necessarily in person) communication about needs to connect. 
 
 This is essentially a deeper split-up of a "needs" section. I am unsure if this division is necessary. It might help to streamline communication as some orgs or people are interested in very specific forms of collaboration or work. 
@@ -32,12 +39,12 @@ This visualization would be more focused on summarizing the identity of a whole 
 
 ## Concepts embedded in this market practice
 
-### buildings relationships naturally by engaging witht the market structure
+### buildings relationships beyond emotion-intensive one-on-one networking
 
 ### synthesis of collective wisdom, struggle, urges etc - like Chat GPT
-What would a neural network knwo that had only been trained on the insights and contents from the conference? What would be the concepts that could be synthesized from the event? 
-
-What questions do people go home with?
+What would a neural network know that had only been trained on the insights and contents from the conference? What would be the concepts that could be synthesized from the event? What questions do people go home with?
 
 
+__________
 #conference #idea #faciliation #retreat 
+__________
