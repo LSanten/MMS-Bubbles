@@ -12,9 +12,9 @@ Worded differently, per capita, the US DoD is 4.15x larger than the Indian Minis
 
 ## Yearly defense expenses are at least 2.21x larger than the one-time "milestone" investment from the Inflaction Reducation Act to fight climate change 
 
-The section of Biden's Inflation Reducation Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives.  <---> Compare this the yeary fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ration of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
+The section of Biden's Inflation Reducation Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives.  <---> Compare this with the yeary fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ration of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
 
-75 billion for Ukraine war for cluster bombs etc. 
+The US Government shipped $ 75 billions of weapons to Ukraine for cluster bombs etc. 
 
 US military is the largest green house gas emitter and buys as much fuel as portugal. Emits more than romania. 
 
@@ -32,7 +32,14 @@ The Department of Defense says that it is likely the largest employer of enginee
 
 "McQuiston said things like transistors, cell phones, 5G cellular technology, computers and the internet all point back to DOD investments." [4] This piece of info could be used to infer that we need the DOD for innovation, or it could be used to infer that the competitive, laissez-faire free market is not innovative enough on its own and that public investments are important to steer the advancements in our society "correctly." This insight can essentially be taken as a counter argument against neo-liberal arguments that the free market has brought about all the amazing technology that we have now. 
 
+## Media with no specific categorization as of now
 
+### Capitalism and the military industrial complex are deeply interwoven 
+They socially reproduce themselves in our social structures [[MMSSocialReproductionA]].
+
+![](../media/cleanshot_2023-10-17-at-20-25-10@2x.png)
+
+Regarding this topic, also look at Alvares' take on how the [scientific method is deeply violent in nature and intertwined with colonialism & capitalism](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm). 
 
 
 ________
