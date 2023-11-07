@@ -1,4 +1,4 @@
-# How do we do collective shaping and orgininzing of information containers?
+# QUESTION: How do we do collective shaping and orgininzing of information containers?
 #MESH #MESH-capstone
 T:202309251406
 an *information container* might be an idea, a question, a proposal etc...

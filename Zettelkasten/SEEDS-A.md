@@ -4,7 +4,7 @@
 [7]: https://www.etcgroup.org/sites/www.etcgroup.org/files/files/etc-whowillfeedus-english-webshare.pdf
 
 
-#seeds #MMS #illustration #idea
+#seeds #MMS-seed #illustration #idea
 ______
 
 HITH3.0 Design and Editorial Team (Ed.). (2021). Hoodwinked in the Hothouse.
