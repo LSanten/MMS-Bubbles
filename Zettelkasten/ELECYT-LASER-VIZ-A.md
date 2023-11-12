@@ -28,6 +28,8 @@ a video of the laser when bass is low to illustrate that the momvement of the vi
 
 A big part of this project was the development of a fully wireless system. The visualizer can be controlled via a remote control that I built myself and the music signal is sent wirelessly, making installation and fine-tuning much easier. 
 
+![](../media/ELECYT-LASER-VIZ-A-general-graphics-04.png)
+
 
 ## Skiis DJing at Fault radio with laser visualizer in the background Sept 18 2022
 This was a larger event with several DJs, vendors, and artist. In [this YouTube video](https://www.youtube.com/watch?v=yF6J6Qs61sM), Skiis DJs with the laser in the background. **The laser's movement in [this video](https://www.youtube.com/watch?v=yF6J6Qs61sM) is particularly fun because it bounces around quite dynamically**. I received enthusiam from a few people as they had never seen a visualizer that didn't use a projector or screen before. 
