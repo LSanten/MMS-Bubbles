@@ -40,7 +40,7 @@ a video of the laser when bass is low to illustrate that the momvement of the vi
 
 ### design of V2: laser & wireless remote control
 
-A big part of this project was the development of a fully wireless system. The visualizer can be controlled via a remote control that I built myself and the music signal is sent wirelessly, making installation and fine-tuning much easier. 
+The biggest part of building the second prototype was the development of a fully wireless system. The visualizer can be controlled via a remote control that I built myself and the music signal is sent wirelessly, making installation and fine-tuning much easier. 
 
 ![](../media/ELECYT-LASER-VIZ-A-general-graphics-04.png)
 
@@ -49,7 +49,7 @@ A big part of this project was the development of a fully wireless system. The v
 This was a larger event with several DJs, vendors, and artist. In [this YouTube video](https://www.youtube.com/watch?v=yF6J6Qs61sM), Skiis DJs with the laser in the background. **The laser's movement in [this video](https://www.youtube.com/watch?v=yF6J6Qs61sM) is particularly fun because it bounces around quite dynamically**. I received enthusiam from a few people as they had never seen a visualizer that didn't use a projector or screen before. 
 ![](../media/cleanshot_2023-11-06-at-20-38-04@2x.png)
 
-The laser I used at this event was my first legit prototype (V1) and looked as follows:
+The laser I used at this event was my first legit prototype (V1) using a commonly available JBL speaker and looked as follows:
 
 ![](../media/cleanshot_2023-11-06-at-21-01-27@2x.png)
 
