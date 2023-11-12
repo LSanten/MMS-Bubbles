@@ -1,11 +1,13 @@
 # An overview for my "laser music visualizer"
-I have been shaping this laser visualizer on and off for 3 years since its invention night with my friends at a _Make Harvard hackathon_. This project has continuously pulled me in and excited friends and audiences because the visualization it produces is so distinct and different from  projector- or LED-based visuals commonly installed in clubs & music spaces.  
+I have been shaping this laser visualizer on and off for 3 years since its invention night with my friends at a _Make Harvard hackathon_ ([old presentation video here](https://www.youtube.com/watch?v=FHm0N6WwG0I)). This project has continuously pulled me in and excited friends and audiences because the visualization it produces is so distinct and different from  projector- or LED-based visuals commonly installed in clubs & music spaces.  
 
 I enjoy that it is directly synced to the music and represents something real - even something physical (a speaker and virbrating mirror) that is actually moving. I greatly enjoy the patterns it creates and how the visuals are often distinct to a song or baseline. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
 
-**quick pre-glance videos below**
+**VIDEOS THAT DOCUMENT A VARIETY OF VISUALS FROM VARIOUS PROTOTYPES**
+
 Even though I mention prototype versions below, every system's visual mostly depends on the dongle design. Refer to the image below to see what the dongle is. 
 
+- video showing the nice patterns & mechanical design & dongle: [watch video here](https://drive.google.com/open?id=10civDd-9JF-H-3Bd6eV9HEJQMKDIcLDG&usp=drive_fs)
 - a video of prototype 2 using a violet/UV laser on a glow-in-the-dark canvas: [watch video here](https://drive.google.com/file/d/1l1MZriswP_XaEk1L2y1xKXLuPloSW3ox/view?usp=sharing)
 - a video of prototype 1 during a DJ performance, showing a very different characteristic due to a different "donlge" used: [watch YouTube video here](https://www.youtube.com/watch?v=yF6J6Qs61sM)
 - nice patterns from and video of prototype 1: [watch video here](https://drive.google.com/open?id=1bYmC6vWL01hWp9DVYv3JUbwNjqFvRZTy&usp=drive_fs)
@@ -51,7 +53,11 @@ The laser I used at this event was my first legit prototype (V1) and looked as f
 
 
 
-## Folder with all archieved images
+## Media archive
 
-https://drive.google.com/drive/folders/1tR-mtjFpGnDntmnmfJzJfZR_EcrjVrzx?usp=sharing
+
+- folder with all images and videos besides youtube videos https://drive.google.com/drive/folders/1tR-mtjFpGnDntmnmfJzJfZR_EcrjVrzx?usp=sharing
+- timelapse of hackathon https://www.youtube.com/watch?v=MxvMdnYlsK0
+- presentation of 
+
 
