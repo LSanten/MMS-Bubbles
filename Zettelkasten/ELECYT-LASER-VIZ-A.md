@@ -3,8 +3,21 @@ I have been shaping this laser visualizer on and off for 3 years since its inven
 
 I enjoy that it is directly synced to the music and represents something real - even something physical (a speaker and virbrating mirror) that is actually moving. I greatly enjoy the patterns it creates and how the visuals are often distinct to a song or baseline. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
 
+**quick pre-glance videos below**
+Even though I mention prototype versions below, every system's visual mostly depends on the dongle design. Refer to the image below to see what the dongle is. 
 
-# A collection of media portraying the most recent versions
+- a video of prototype 2 using a violet/UV laser on a glow-in-the-dark canvas: [watch video here](https://drive.google.com/file/d/1l1MZriswP_XaEk1L2y1xKXLuPloSW3ox/view?usp=sharing)
+- a video of prototype 1 during a DJ performance, showing a very different characteristic due to a different "donlge" used: [watch YouTube video here](https://www.youtube.com/watch?v=yF6J6Qs61sM)
+- nice patterns from and video of prototype 1: [watch video here](https://drive.google.com/open?id=1bYmC6vWL01hWp9DVYv3JUbwNjqFvRZTy&usp=drive_fs)
+- more agressive interesting patterns: [watch video here](https://drive.google.com/file/d/1l1MZriswP_XaEk1L2y1xKXLuPloSW3ox/view?usp=sharing)
+
+
+
+## The general mechanics-based concept to create visuals
+![](../media/ELECYT-LASER-VIZ-A-general-graphics-01.png)
+
+
+# Events where I installed 
 
 ## Night market for the afro-futuristic comic book Quasar
 I worked together with Gideon O Egbuchulam to shape the environment of a [dance event and night market](https://www.instagram.com/p/CzT37VSL3ri/?img_index=1) with the purpose to promote his new afro-futuristic comic book Quasar Soliders. The  electronic & mechanical appearnace of the visualizer created a hacky, futuristic sci-fi experience that matched the aesthetic of the comic and animated video playing from an old TV. 
@@ -22,9 +35,6 @@ a video of the laser when bass is low to illustrate that the momvement of the vi
 
 
 ### design of V2: laser & wireless remote control
-
-![](../media/ELECYT-LASER-VIZ-A-general-graphics-01.png)
-
 
 A big part of this project was the development of a fully wireless system. The visualizer can be controlled via a remote control that I built myself and the music signal is sent wirelessly, making installation and fine-tuning much easier. 
 
