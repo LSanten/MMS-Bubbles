@@ -1,5 +1,5 @@
 # An overview for my "laser music visualizer"
-I have been shaping this laser visualizer on and off for 3 years since its invention night with my friends at a _Make Harvard hackathon_. This project has continuously pulled me in because the visualization it produces is so distinct and different from  projector- or LED-based visuals that I have experienced in clubs & music spaces.  
+I have been shaping this laser visualizer on and off for 3 years since its invention night with my friends at a _Make Harvard hackathon_. This project has continuously pulled me in and excited friends and audiences because the visualization it produces is so distinct and different from  projector- or LED-based visuals commonly installed in clubs & music spaces.  
 
 I enjoy that it is directly synced to the music and represents something real - even something physical (a speaker and virbrating mirror) that is actually moving. I greatly enjoy the patterns it creates and how the visuals are often distinct to a song or baseline. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
 
@@ -7,7 +7,7 @@ I enjoy that it is directly synced to the music and represents something real - 
 # A collection of media portraying the most recent versions
 
 ## Night market for the afro-futuristic comic book Quasar
-I worked together with Gideon O Egbuchulam to shape the environment of a [dance event and night market with the purpose to promote his new afro-futuristic comic book Quasar Soliders](https://www.instagram.com/p/CzT37VSL3ri/?img_index=1). The  electronic & mechanical appearnace of the visualizer created a hacky, futuristic sci-fi experience that matched the aesthetic of the comic and animated video playing from an old TV. 
+I worked together with Gideon O Egbuchulam to shape the environment of a [dance event and night market](https://www.instagram.com/p/CzT37VSL3ri/?img_index=1) with the purpose to promote his new afro-futuristic comic book Quasar Soliders. The  electronic & mechanical appearnace of the visualizer created a hacky, futuristic sci-fi experience that matched the aesthetic of the comic and animated video playing from an old TV. 
 
 ![](../media/ELECYT-LASER-VIZ-A-general-graphics-02.png)
 
