@@ -3,7 +3,7 @@ I have been shaping this laser visualizer on and off for 3 years since its inven
 
 I enjoy that it is directly synced to the music and represents the real sound waves of the song. It does not use sofware to create the visual. The visual is created by the movement of the speaker and a mirror attached to it.
 
- I greatly enjoy the patterns it creates, and that the visuals are often distinct to a song or baseline. Every baseline feeling creates a different visual. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
+I greatly enjoy the patterns it creates and that the visuals are often distinct to a song or baseline. Every baseline feeling creates a different visual. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
 
 ## Videos showing a variety of visuals from different prototypes
 
