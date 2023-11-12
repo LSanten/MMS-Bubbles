@@ -5,7 +5,7 @@ I enjoy that it is directly synced to the music and represents the real sound wa
 
  I greatly enjoy the patterns it creates, and that the visuals are often distinct to a song or baseline. Every baseline feeling creates a different visual. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
 
-**VIDEOS THAT DOCUMENT A VARIETY OF VISUALS FROM VARIOUS PROTOTYPES**
+## Videos showing a variety of visuals from different prototypes
 
 Even though I mention prototype versions below, every system's visual mostly depends on the dongle design. Refer to the image below to see what the dongle is.
 
