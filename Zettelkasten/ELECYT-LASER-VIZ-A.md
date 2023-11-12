@@ -1,19 +1,42 @@
 # An overview for my "laser music visualizer"
-I have been shaping this laser visualizer on and off for 3 years since its invention night with my friends at a make Harvard hackathon. This project has continuously pulled me in because the visualization it produces is so distinct and different from the projector- or LED-based visuals I have experienced in clubs & music spaces.  
+I have been shaping this laser visualizer on and off for 3 years since its invention night with my friends at a _Make Harvard hackathon_. This project has continuously pulled me in because the visualization it produces is so distinct and different from  projector- or LED-based visuals that I have experienced in clubs & music spaces.  
 
-I enjoy that it is directly synced to the music and represents something real - even something physical that is actually moving. I greatly enjoy the patterns it creates and how the visuals are often distinct to a song. Yet, the general style 
-
-
+I enjoy that it is directly synced to the music and represents something real - even something physical (a speaker and virbrating mirror) that is actually moving. I greatly enjoy the patterns it creates and how the visuals are often distinct to a song or baseline. Yet, the general style stays similar throughout the night, creating a pull-in hypnotic effect.
 
 
+# A collection of media portraying the most recent versions
 
-## Skiis at Fault radio with laser in the background Sept 18 2022
+## Night market for the afro-futuristic comic book Quasar
+I worked together with Gideon O Egbuchulam to shape the environment of a [dance event and night market with the purpose to promote his new afro-futuristic comic book Quasar Soliders](https://www.instagram.com/p/CzT37VSL3ri/?img_index=1). The  electronic & mechanical appearnace of the visualizer created a hacky, futuristic sci-fi experience that matched the aesthetic of the comic and animated video playing from an old TV. 
+
+![](../media/ELECYT-LASER-VIZ-A-general-graphics-02.png)
+
+![](../media/ELECYT-LASER-VIZ-A-general-graphics-03.png)
+
+I developed this second prototype to explore the effects of a glow-in-the-dark canvas that is charged up by the UV/purple laser. The effect is not as interesting as expected. The 
+
+### videos of performance of V2
+a video of the blue-light laser performing to a song: [watch video here](https://drive.google.com/file/d/1l1MZriswP_XaEk1L2y1xKXLuPloSW3ox/view?usp=sharing)
+
+a video of the laser when bass is low to illustrate that the momvement of the visual largely depends on low frequencesy: [video here](https://drive.google.com/file/d/1kzZRIBprKgb_-05AWdPADXQzIdXBEBcN/view?usp=sharing)
+
+
+### design of V2: laser & wireless remote control
+
+![](../media/ELECYT-LASER-VIZ-A-general-graphics-01.png)
+
+
+A big part of this project was the development of a fully wireless system. The visualizer can be controlled via a remote control that I built myself and the music signal is sent wirelessly, making installation and fine-tuning much easier. 
+
+
+## Skiis DJing at Fault radio with laser visualizer in the background Sept 18 2022
 This was a larger event with several DJs, vendors, and artist. In [this YouTube video](https://www.youtube.com/watch?v=yF6J6Qs61sM), Skiis DJs with the laser in the background. **The laser's movement in [this video](https://www.youtube.com/watch?v=yF6J6Qs61sM) is particularly fun because it bounces around quite dynamically**. I received enthusiam from a few people as they had never seen a visualizer that didn't use a projector or screen before. 
 ![](../media/cleanshot_2023-11-06-at-20-38-04@2x.png)
 
 The laser I used at this event was my first legit prototype (V1) and looked as follows:
 
 ![](../media/cleanshot_2023-11-06-at-21-01-27@2x.png)
+
 
 
 ## Folder with all archieved images
