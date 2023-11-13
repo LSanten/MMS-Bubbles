@@ -21,7 +21,7 @@ and "what is the world?"
 
 to reach some insight, we need to look at both hemispheres and understand how they deliver information to know which one to favor (though both might give some truth)
 
-"how do we know aything?" (the big question of #epistimology)
+"how do we know aything?" (the big question of #epistemology)
 
 "what is the structure of the cosmos and what is it made out of?"
 
