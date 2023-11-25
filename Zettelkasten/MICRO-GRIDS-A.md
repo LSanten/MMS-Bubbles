@@ -1,18 +1,9 @@
-# What is a microgrid?
+# Microgrids and 
 
 
 ## A schematic for a small off-the-grid solar + hydro system
 ![](../media/cleanshot_2023-11-25-at-13-56-21@2x.png)
 [1] - a microgrid with two solar panel arrays and a microhydro generator (very small water turbine). The "arduino control unit" can be ignored. It was an additional add-on to monitor the battery voltage to prevent battery health decay. 
-
-## Energy sovereignty & energy democracy
-
-how to work with community:
-
-[Working together to reduce energy poverty in Timor-Leste with environmentally sustainable community-based economic development: A transnational developmental social work approach](https://journals.sagepub.com/doi/10.1177/0020872819887786)
-
-
-
 
 
 ## Aspects of energy sovereignty projects...
@@ -20,6 +11,10 @@ I created this graphic to illustrate the variety of dimensions that are crucial 
 
 ![](../media/cleanshot_2023-11-25-at-15-22-53@2x.png)
 
+
+**Energy sovereignty & energy democracy** - how to work with community:
+
+[Working together to reduce energy poverty in Timor-Leste with environmentally sustainable community-based economic development: A transnational developmental social work approach](https://journals.sagepub.com/doi/10.1177/0020872819887786)
 
 
 staying warm --> Heaters require a lot of energy. It tends to be better to use gas or oil for heaters unless you have a large system. 
