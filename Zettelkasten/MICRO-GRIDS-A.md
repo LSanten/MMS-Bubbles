@@ -26,10 +26,10 @@ staying warm --> Heaters require a lot of energy. It tends to be better to use g
 
 battery backup systems --> [https://peoplepowersolar.mn.co/posts/45812190?notification_id=3955803747&origin_method=email&utm_campaign=notification_space_post_create_notify_all&utm_medium=email&utm_source=transactional_emails](Emergency Battery Toolkit Release Party)
 
-wind energy --> [https://www.primoenergy.com/](PrimoEnergy), 
+wind energy --> (https://www.primoenergy.com/)[PrimoEnergy], 
 
-micro-hydro --> small things for rivers --> [https://www.popsci.com/gear/best-hydroelectric-generators/](small turbines, the left one you can put into a stream)
-
+micro-hydro --> small things for rivers --> (https://www.popsci.com/gear/best-hydroelectric-generators/)[small turbines, the left one you can put into a stream
+]
 
 
 ________
