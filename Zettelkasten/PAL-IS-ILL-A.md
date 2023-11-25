@@ -3,6 +3,8 @@
 
 ## Stats or single sentences about what every day life is like
 
+**comic or illustrative walk through**
+
 - you can never leave because everything is fenced in
 - your right to drill for water is always tied Israeli permission
 - (?) the Isreali military might closer your well
@@ -22,13 +24,9 @@
 
 ## "the path to ecological justice must run through a free Palestine" [1]
 
-
 - water right, land is drying up
 - waste water dumping from israel
 - coastel water contaminated with sewage and weapon chemicals
-
-
-
 
 ____________
 REFERENCES

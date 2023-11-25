@@ -6,3 +6,5 @@ A lot of the waste problem goes deeper than awareness, but I find this part pa
 
 ## portal to connect worlds
 Imagine a portal that shoots out messages from people working on Indonesia trash mountain directly to a place in San Francisco. There is a live-stream camera. People can directly communicate and ask someone questions who deals with our stuff on the other side of the planet. 
+
+## waste stream within the city 
