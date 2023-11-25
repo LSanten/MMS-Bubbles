@@ -18,7 +18,7 @@ how to work with community:
 ## Aspects of energy sovereignty projects...
 I created this graphic to illustrate the variety of dimensions that are crucial when working with communities to realize their **energy sovereignty**. 
 
-![](../media/2023-11-25 14-01 Pasted Image.png)
+![](../media/cleanshot_2023-11-25-at-15-22-53@2x.png)
 
 
 
