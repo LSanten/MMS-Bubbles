@@ -17,7 +17,7 @@ How NATO’s 2% military spending targets contribute to climate breakdown](https
 Relative to Israel's size, it is the largest arms dealer. Spends 24 bln dollar / a year on military
 
 ![](../media/cleanshot_2023-11-28-at-07-53-33@2x.png)
-climate change is being talked about as a "security threat" to national security. Threat to operations of the military (see basis), or poor countries becoming a threat to rich countries due to conflict and migration - so migration needs to be controlled. 
+climate change is being talked about as a "security threat" to national security. Threat to operations of the military (sea bases), or poor countries becoming a threat to rich countries due to conflict and migration - so migration needs to be controlled. 
 
 ![](../media/cleanshot_2023-11-28-at-07-55-44@2x.png)
 
