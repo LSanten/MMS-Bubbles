@@ -1,6 +1,6 @@
-## Climate Collateral 
+## Climate Collateral Webinar Points
 
-**[Climate Crossfire
+### **[Climate Crossfire
 How NATO’s 2% military spending targets contribute to climate breakdown](https://www.tni.org/en/publication/climate-crossfire)**
 
 - at least 5.5% of all emissions by global military (not including conflict emissions)
@@ -28,7 +28,7 @@ climate change is being talked about as a "security threat" to national security
 
 
 
-**[Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)**
+### **[Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)**
 
 US soldier now consumes around 20 gallons a day 
 ![](../media/cleanshot_2023-11-28-at-08-00-00@2x.png)
@@ -45,10 +45,11 @@ using military to compensate for the lack of social structure by sourcing from a
 
 you can't just have a green military. 
 
-**Mitzi Joelle Tan**
+### **Mitzi Joelle Tan** 
+
 Palestine is a climate justice issue. The people who are exposed to war and violence are more vulnerable to climate change. Herrassment of communities by the military due to climate tensions. 
 
-Climate justice is really just the **the fight for life**. To decide for life is the human right. 
+--> Climate justice is really just the **the fight for life**. To decide for life is the human right. 
 
 
 
@@ -56,7 +57,7 @@ Climate justice is really just the **the fight for life**. To decide for life is
 ### other resources
 - **[Climate Collateral
 How military spending accelerates climate breakdown](https://www.tni.org/en/publication/climate-collateral)**
-- [link](https://jacobin.com/2023/06/arms-dealers-environment-social-responsibility-investments-green-warfare-security)
-- [link](https://www.workersinpalestine.org/the-calls-languages/english)
+- [No, Arms Dealers Don’t Count as “Environmentally and Socially Responsible” Investments](https://jacobin.com/2023/06/arms-dealers-environment-social-responsibility-investments-green-warfare-security)
+- [AN URGENT CALL FROM PALESTINIAN TRADE UNIONS: END ALL COMPLICITY, STOP ARMING ISRAEL](https://www.workersinpalestine.org/the-calls-languages/english)
 - [another great report on arms workers perspective on a just transition](https://www.thebritishacademy.ac.uk/documents/4197/Just-transitions-decarbonising-diversifying-defence-uk-usa.pdf)
 - [Revealed: How colonial rule radically shifts historical responsibility for climate change](https://www.carbonbrief.org/revealed-how-colonial-rule-radically-shifts-historical-responsibility-for-climate-change/?_hsmi=284302147&_hsenc=p2ANqtz-9Sue_r9RXENt4WeOAiPxdZzgz95ehD_ANlyTZS318UeVFS1MIioSA7D_Kn8RfGmpr761qGXr6mN1zB5_7HZNr1j1QkdS99hEvHZ_s7NZ7pe4BrQHk)
