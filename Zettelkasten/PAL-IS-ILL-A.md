@@ -1,6 +1,10 @@
 
 # Brainstorm for illustration topics 
 
+## Inspirational sources
+
+- 
+
 ## Stats or single sentences about what every day life is like
 
 **comic or illustrative walk through**
@@ -28,7 +32,10 @@
 - waste water dumping from israel
 - coastel water contaminated with sewage and weapon chemicals
 
+
+
 ____________
 REFERENCES
 
 [1] - https://movementgeneration.ourpowerbase.net/civicrm/mailing/view?reset=1&id=158&cid=12669&cs=3d0bac770cfa627cdb93a557fee848a5_1699037545_168
+[2] - https://insighttimer.com/juliereisler/guided-meditations/radical-compassion-with-tara-brach
