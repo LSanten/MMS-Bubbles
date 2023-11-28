@@ -1,4 +1,4 @@
-## Climate Collateral Webinar Points
+## Climate Collateral Webinar
 
 ### **[Climate Crossfire: How NATO’s 2% military spending targets contribute to climate breakdown](https://www.tni.org/en/publication/climate-crossfire)**
 
