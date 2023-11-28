@@ -19,6 +19,8 @@ Relative to Israel's size, it is the largest arms dealer. Spends 24 bln dollar /
 ![](../media/cleanshot_2023-11-28-at-07-53-33@2x.png)
 climate change is being talked about as a "security threat" to national security. Threat to operations of the military (sea bases), or poor countries becoming a threat to rich countries due to conflict and migration - so migration needs to be controlled. 
 
+ANNOTATION: colors above should be flipped.
+
 ![](../media/cleanshot_2023-11-28-at-07-55-44@2x.png)
 
 ![](../media/cleanshot_2023-11-28-at-07-56-36@2x.png)
