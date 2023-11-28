@@ -2,8 +2,9 @@
 
 ### **[Climate Crossfire: How NATO’s 2% military spending targets contribute to climate breakdown](https://www.tni.org/en/publication/climate-crossfire)**
 
-- at least 5.5% of all emissions by global military (not including conflict emissions)
-- spendings increased 21% since 2013
+- at least 5.5% of all GHG emissions are emitted by global military (not including conflict emissions)
+- world-wide military spendings increased 21% since 2013
+- the military is used increasingly to *push away* climate migrants and social uprisings due to climate injustice (also see Slide on Arms exports from wealthy countries to climate vulnerable countries)
 
 ![](../media/cleanshot_2023-11-28-at-07-47-40@2x.png)
 
@@ -13,7 +14,7 @@
 
 ![](../media/cleanshot_2023-11-28-at-07-50-34@2x.png)
 
-Relative to Israel's size, it is the largest arms dealer. Spends 24 bln dollar / a year on military
+Relative to Israel's size, it is the largest arms dealer. Spends 24 bln dollar / a year on military. The US department of Defense is the second largest employer world-wide, and per capita, it is more than 4x larger than the Indian defence department (which is the largest employer world-wide) [[MILIT-A]].
 
 ![](../media/cleanshot_2023-11-28-at-07-53-33@2x.png)
 climate change is being talked about as a "security threat" to national security. Threat to operations of the military (sea bases), or poor countries becoming a threat to rich countries due to conflict and migration - so migration needs to be controlled. 
