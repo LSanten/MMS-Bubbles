@@ -1,7 +1,5 @@
 ## Climate Collateral 
 
-- [Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)
-
 **[Climate Crossfire
 How NATO’s 2% military spending targets contribute to climate breakdown](https://www.tni.org/en/publication/climate-crossfire)**
 
@@ -27,8 +25,10 @@ climate change is being talked about as a "security threat" to national security
 
 ![](../media/cleanshot_2023-11-28-at-07-57-04@2x.png)
 
-**[Climate Collateral
-How military spending accelerates climate breakdown](https://www.tni.org/en/publication/climate-collateral)**
+
+
+
+**[Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)**
 
 US soldier now consumes around 20 gallons a day 
 ![](../media/cleanshot_2023-11-28-at-08-00-00@2x.png)
@@ -51,7 +51,11 @@ Palestine is a climate justice issue. The people who are exposed to war and viol
 Climate justice is really just the **the fight for life**. To decide for life is the human right. 
 
 
+
+
 ### other resources
+- **[Climate Collateral
+How military spending accelerates climate breakdown](https://www.tni.org/en/publication/climate-collateral)**
 - [link](https://jacobin.com/2023/06/arms-dealers-environment-social-responsibility-investments-green-warfare-security)
 - [link](https://www.workersinpalestine.org/the-calls-languages/english)
 - [another great report on arms workers perspective on a just transition](https://www.thebritishacademy.ac.uk/documents/4197/Just-transitions-decarbonising-diversifying-defence-uk-usa.pdf)
