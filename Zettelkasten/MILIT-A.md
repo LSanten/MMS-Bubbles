@@ -1,5 +1,4 @@
-# Stats surrounding the scale of the military industrial system
-
+# Stats surrounding the scale of the US military industrial complex
 
 ## The US Department of Defense (DoD) is the second largest employer world-wide with 2.9 million people [1]
 The single largest employer is the Indian Ministry of defense. India had a popluation of 1.42 Billion people in 2022. The United states had a population of 333 Million people in 2022. 
@@ -12,11 +11,11 @@ Worded differently, per capita, the US DoD is 4.15x larger than the Indian Minis
 
 ## US Yearly defense expenses are at least 2.21x larger than the one-time "milestone" investment from the Inflaction Reducation Act to fight climate change 
 
-The section of Biden's Inflation Reducation Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives.  <---> Compare this with the yeary fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ration of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
+The section of Biden's Inflation Reducation Act (IRA) that seeks to address climate change is $ 369 billion large [2]. This is a major milestone in US history concerning climate change-related initiatives.  <---> Compare this with the yearly fiscal expenses for defense that amount to $ 816 billion for 2023 [3]. This is a ratio of 2.21x. The IRA is a one-time act, defense expenses happen yearly. 
 
 The US Government shipped $ 75 billions of weapons to Ukraine for cluster bombs etc. 
 
-US military is the largest green house gas emitter and buys as much fuel as portugal. Emits more than romania. 
+US military buys as much fuel as portugal, emits more than romania, and other heavy-emitting nations (see [[MILIT-B]]).
 
 ## US Fiscal military expenses have risen in the last years
 The numbers below and above are directly taken from the US Government reports. Indepent research, however, claims that military expenses reached 1.53 Trillion in 2022 instead of the the official numbers of $ 766 Billion due to a limited categorization on the US Government's end [5]. 
@@ -28,7 +27,7 @@ The numbers below and above are directly taken from the US Government reports. I
 
 ## Engineering related stats
 
-The Department of Defense says that it is likely the largest employer of engineers in the United States [4].
+--> The Department of Defense says that it is likely the largest employer of engineers in the United States [4].
 
 "McQuiston said things like transistors, cell phones, 5G cellular technology, computers and the internet all point back to DOD investments." [4] This piece of info could be used to infer that we need the DOD for innovation, or it could be used to infer that the competitive, laissez-faire free market is not innovative enough on its own and that public investments are important to steer the advancements in our society "correctly." This insight can essentially be taken as a counter argument against neo-liberal arguments that the free market has brought about all the amazing technology that we have now. 
 
