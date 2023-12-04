@@ -12,7 +12,7 @@
 
 
 
-
+- good research - https://goodresearch.com/
 
 
 https://www.climatetechlist.com/
