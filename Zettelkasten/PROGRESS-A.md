@@ -6,6 +6,8 @@ In an educational setting, this looks like this: we should be asked how we want 
 
 Why should we set our own goals? Once we finish this totally unimportant grading with this random institution, we will have to decide BY OURSELVES, only on our OWN, what progress means to us. No-one will help us or tell us how we will be graded. So why shouldn't we PRACTICE how to reflect on progress in our lives? I am dead-serious when I say:
 
+**I accuse the University of messing up our lives by restricting our agency to practice taking ownership over our lives.**
+
 **No one will tell you what to do after you leave the school. Chances are that the grading helped you very little to understand what you truly need to progress in your life. **
 
 --> we need to learn how to work with ourselves to be able to work with others and in larger systems. More on this in [[SPIRIT-WORK-A]].
