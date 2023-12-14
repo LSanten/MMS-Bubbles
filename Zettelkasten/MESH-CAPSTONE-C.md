@@ -1,5 +1,7 @@
 # IDEA: A visual space to create and share, organize, archive and collaborate on snippets
 
+like this website does for tech projects https://hackaday.io/project/192688-the-open-book
+
 
 ## A bulletin board is one way to visualize it 
 Bulletin board or living room for emotions, needs, and offers on a virtual plaza
