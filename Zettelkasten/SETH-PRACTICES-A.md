@@ -1,8 +1,10 @@
 # Practices for energy, flow of qi, loosening, and reflection
-Hi Seth, the first to practices are the ones I added to your plan. The third one is an interesting qigong exercise my friend showed to me, and I wanted to pass it along to you. 
+Hi Seth, there are three practices on here. I referenced the Kundalini yoga exercise and the "innovators compass" practice on your plan. The third one is an interesting qigong exercise my friend showed to me, and I wanted to pass it along to you. 
 
 ## Kundalini Yoga 30 min
 This exercise is meant to get your qi flowing and activate your chakras, especially the root chakra. I like it because it an energizing stretching exercise that faciliates a peaceful meditation because my energy feels less stuck and my body is looser after the movements describes. It also helps me with shoulder mobility and upper body strength. Might be good for your upper body as well. Some of the exercises are hard. Try to do them as long as you can. 
+
+Kundalini Yoga gets a little weird when it comes to the groups that form around it in the US. But the root of this style of yoga can still be helpful for deep work.
 
 [Raw Kundalini Yoga Video with Yogi Emmanuelle
 ](https://www.youtube.com/watch?si=dH0dzXLMzeN_QVSo&v=x9tRMpOSC_o&feature=youtu.be)
@@ -26,3 +28,10 @@ This tool can be very helpful for taking a step back and reflecting on a particu
 I'd love for you to share how this goes once you've done it. If it makes sense or is too much structure for you <3 
 
 ![](../media/cleanshot_2023-12-29-at-10-23-13.png)
+
+
+## 45 min qigong
+
+This is a list of interesting resources, including a 45min qigong practice. Thought you might like it. 
+
+https://www.youtube.com/watch?v=oD8MjRlahJ0&list=PLzBs7MLeNKaQedcVDrAJXOn3yRvvqZO19&index=2&t=1s
