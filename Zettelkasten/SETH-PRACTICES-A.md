@@ -12,9 +12,7 @@ This exercise is meant to get your qi flowing and activate your chakras, especia
 ## Innovators Compass [link here](https://innovatorscompass.org/use-it#quickstart)
 This tool can be very helpful for taking a step back and reflecting on a particular *threshold area* of your life. It is meant to get the flow going and help you refine your reflection. Roughly take 5 minutes for every step. If you're faster that's ok. Sometimes, it takes a second for people to get into the new space of each part. Just give yourself some time.  
 
-
-
-![](../media/cleanshot_2023-12-29-at-10-11-38.png)
+![](../media/2023-12-29 10-28 Pasted Image.png)
 
 - First, think about your area where you seek to progress or feel stucked.
 - Start by drawing a small circle and an intersecting cross as below onto a bigger piece of paper. 
