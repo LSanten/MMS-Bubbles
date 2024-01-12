@@ -7,6 +7,14 @@ We know that Western humans mostly use their left hemisphere to engage with real
       
 The left hemisphere of our brain is used to get things and manipualte dead matter while the right hemisphere is used to relate to the living world and the implicit side of reality. 
 
-The effort to objectify reality and squish it into numbers and logical building blocks is a core component of the qunatitative scientific method. Also consider how in the English language, the subjects acts on an object. 
+The effort to objectify reality and squish it into numbers and logical building blocks is a core component of the qunatitative scientific method. Also consider how in the English language, the subjects acts on an object:
+
+"Specifically, these individuals, which Henrich describes as western-educated, industrialized, rich and democratic (WEIRD), have a default tendency to focus on parts within a visual field, whereas their non-WEIRD peers see the whole. Unsurprisingly, WEIRD individuals tend to view the world with the analytical thinking of the reductionist science that is core to western and engineering education. Reductionism and its methods assume a world of objects, held separate from and independent of the observer; its aim is to prove or disprove hypotheses about cause and effect. Reductionism is useful for manipulating the physical world for predictable outcomes but is not fit for the purpose of working with living beings. What this means for WEIRD people is a tendency to see human behavior as caused by traits of the individual whereas their non-WEIRD peers are more likely to reason that peoples’ behavior is a reaction to the systemic conditions—a more holistic interpretation. WEIRD people tend to employ limited moral logics that rely on what are viewed as “autonomous” actions by individuals [9]. Non-WEIRD subjects draw on a multitude of moral logics that include autonomous action and presume ones’ inseparability from communities. In short, western education conditions people to see the world in a fragmented, rather than holistic way." (Vanasupa & Barabino 2021)
 
 ![](../media/MMSTuningIntoSeparation.jpeg)
+
+
+______
+REFERENCES
+
+Vanasupa, L., & Barabino, G. (2021). An engineering education of holism: einstein’s imperative. In M. Bouezzeddine (Ed.), Insights into global engineering education after the birth of industry 5.0. IntechOpen. https://doi.org/10.5772/intechopen.99211
