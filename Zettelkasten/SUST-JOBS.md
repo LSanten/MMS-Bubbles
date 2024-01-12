@@ -10,11 +10,11 @@
 
 - Sierra Energy - gasification ?
 
-
+- Asurion - get your tech fixed
 
 - good research - https://goodresearch.com/
 
-
-https://www.climatetechlist.com/
+______________
+A list with climate tech jobs: https://www.climatetechlist.com/
 
 
