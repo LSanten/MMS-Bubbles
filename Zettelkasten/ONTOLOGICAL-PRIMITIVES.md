@@ -1,6 +1,5 @@
-
-
-ontological primitives are the essences from which our actions and behaviors arise. They are the smallest building blocks of ontolgocial base understandings (regarding the nature of reality & being) such as:
+# What are ontological primitives?
+Ontological primitives are the essences from which our actions and behaviors arise. They are the smallest building blocks of ontolgocial base understandings (regarding the nature of reality & being) such as:
 
 - value
 - purpose
