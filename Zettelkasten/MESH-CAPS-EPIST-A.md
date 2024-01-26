@@ -6,6 +6,7 @@
 **Bubbles to add:**
 
 - the personal is political (can be found in my spirit thesis)
+- we are whole to begin with 
 
 ________
 ## References

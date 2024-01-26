@@ -13,6 +13,8 @@
 - Asurion - get your tech fixed
 
 - good research - https://goodresearch.com/
+- https://www.idealist.org/en/consultant-job/2aa749000ce442f9818a908f7c4b0d3a-environmental-communications-and-engagement-senior-associate-cascadia-consulting-group-oakland
+- https://www.bsr.org/
 
 ______________
 A list with climate tech jobs: https://www.climatetechlist.com/

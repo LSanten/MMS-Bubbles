@@ -1,8 +1,10 @@
-# Project ideas & challenges for capstone
+# Project ideas for capstone
+
+[project topic, questions, and goals](https://docs.google.com/document/d/1NwWqKLH4x-LrfgwC4PKYaQwBhMZNnYlpEaP_w2SmreI/edit?usp=sharing) on google doc
 
 Education
 
-- give students the ability to raise questions, insights, projects without guidance and allow for emergence of cooperation within the teaching container. This means to help students to build the practice of self-originated work, self-reliant relationships, and meaning-based communication. 
+- give students the ability to raise questions, insights, projects without guidance and allow for emergence of cooperation within the learning container. This means to help students to build the practice of self-originated work, self-reliant relationships, and meaning-based communication. 
 
 Research projects
 
