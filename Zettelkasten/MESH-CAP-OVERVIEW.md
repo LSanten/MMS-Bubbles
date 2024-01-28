@@ -6,6 +6,8 @@
 - [[MESH-CAP-C]] Visual space for sharing of needs and collaboration around ideas 
 - [[MESH-CAP-D]] Project ideas
 - [[MESH-CAP-E]] 
+- [[MESH-CAP-F]]
+- [[MESH-CAP-G]] Tangible creations list for collecting all deliverable pieces
 
 
 

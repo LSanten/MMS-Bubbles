@@ -7,6 +7,7 @@
 
 - the personal is political (can be found in my spirit thesis)
 - we are whole to begin with 
+- how to self-actualize? dynamic models for maintenance & transformation [[MASLOWS-NEEDS-BEYOND]]: life requires continuous maintenance on all ends 
 
 ________
 ## References

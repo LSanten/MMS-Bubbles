@@ -1,13 +1,13 @@
-# classic Maslow model 
+# classic Maslow model: pyramid of needs
 was appropriated from indigenous communities (Ravilochan 2021).
 
-And his group of research to develop his concept was comprised mostly white men and only one woman (OANM faciliation training). 
+And his group of research to develop his concept was comprised mostly of white men and only one woman (OANM faciliation training). 
 
 # more dynamic needs models 
 Native self-actualization model: https://www.youtube.com/watch?v=ONTAefdVs5o
 
 Scott Berry Kaufmann 
-![](media/2023-09-19 10-49 Pasted Image.png)
+![](../media/2023-09-19 10-49 Pasted Image.png)
 
 Manfred Max-Neef's fundamental human needs
 ![](../media/2023-09-19 10-51 Pasted Image.png)
