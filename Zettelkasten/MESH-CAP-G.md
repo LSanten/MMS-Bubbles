@@ -6,7 +6,21 @@ Here I collect things I want and need to create. They are partially deliverables
 
 --> a list of tools and practices useful and necessary for an organized work flow: zettelkasten/obsidian [[MESH-CAP-G1]]
 
---> 
+--> living 
 
 ## TEAR 2: very keystone pieces of longer timeline relevance 
 --> a document of recommendations to improve MESH concretely: e.g. reative work practice advice 
+
+## TEAR 3: 
+--> a layout for transparent and vulnerable reflections on shortcomings within projects.
+
+
+## To add to other tears
+
+Visualizer based on simple markdown files
+    Maybe to streamline offers and needs settings?
+    Maybe to create bubbles of epistemological points?
+Tools for omprakash
+    Non-linear communication interfaces
+Concepts for an engineering hub
+Practices for ESJP

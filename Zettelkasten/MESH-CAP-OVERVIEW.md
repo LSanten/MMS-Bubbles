@@ -8,6 +8,9 @@
 - [[MESH-CAP-E]] 
 - [[MESH-CAP-F]]
 - [[MESH-CAP-G]] Tangible creations list for collecting all deliverable pieces
+- [[MESH-CAP-H]]
+- [[MESH-CAP-I]] Contemplating project aims and ways to say them
+- [[MESH-CAP-J]] empty
 
 
 
