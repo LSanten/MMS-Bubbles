@@ -5,6 +5,8 @@
 
 ![](../media/cleanshot_2024-02-07-at-09-03-42@2x.png)
 
+![](../media/cleanshot_2024-02-07-at-09-28-36@2x.png)
+
 ![](../media/cleanshot_2024-02-07-at-09-09-07@2x.png)
 
 ## Aims
