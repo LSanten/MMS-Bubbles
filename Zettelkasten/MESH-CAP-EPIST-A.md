@@ -4,7 +4,6 @@
 
 
 **Bubbles to add:**
-
 - the personal is political (sociologist who said this can be found in my spirit thesis)
 - we are whole to begin with, there is nothing that needs to be fixed but much to be healed
 - how to self-actualize? dynamic models for maintenance & transformation [[MASLOWS-NEEDS-BEYOND]]: life requires continuous maintenance on all ends 

@@ -21,4 +21,6 @@ If we work by ourselves, we don’t get much feedback. To wait for life to give 
 ________
 SOURCES
 
+Tolle, E. (1999). The Power of Now: A Guide to Spiritual Enlightenment (1st ed., p. 208). New World Library.
+
 Brander, G. (2023, July 19). Effort is evidence of broken feedback loops. Subconscious. https://subconscious.substack.com/p/effort-is-evidence-of-broken-feedback

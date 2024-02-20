@@ -17,3 +17,8 @@ through connecting with & observing the world inside us & around us we may becom
 I see an opportunity to liberate ourselves from destructive & oppressive social structures (social institutions and our personal selves) by integrating other forms of story telling, our emotions, our bodily experiences, our intuition, and connection to our inner source (Monica Dennis) into spaces that seek transformative change for everyone’s thriving (ecological justice) • the internal process is of importance because our body-mind-spirit complexes are the instruments through which communication & action emerge
 
 our internal world reflects structures of external social systems (Scharmer 2015) • therefore, our inner world is a great place to start the process of self-transformation and self-improvement • the personal process will inevitably affect our social systems because our internal values and beliefs condition the social structures we create • since our social systems recreate themselves and the conditions for their emergence (Luhmann 1998), a high level of consciousness (personal & collective) of embedded values & beliefs in the system structures is essential in creating social systems conducive to a thriving world for all
+
+
+____________
+
+Tolle, E. (1999). The Power of Now: A Guide to Spiritual Enlightenment (1st ed., p. 208). New World Library.

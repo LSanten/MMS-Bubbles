@@ -27,4 +27,6 @@ Brander, G. (2023, July 19). Effort is evidence of broken feedback loops. Subcon
 
 Santen, L. (2023). How can we transform ourselves? (Spirituality & Ecological Justice). Final Paper for Environmental Justice Class (MESH). https://leonsanten.info/contemplatingChangeForEJ.html
 
+Tolle, E. (1999). The Power of Now: A Guide to Spiritual Enlightenment (1st ed., p. 208). New World Library.
+
 Zastavker, Y. V., & Venkatesh, M. J. (2022). Contemplating engineering and science: creating compassionate and empathetic learning spaces in engineering education. 2022 IEEE Frontiers in Education Conference (FIE), 1–5. https://doi.org/10.1109/FIE56618.2022.9962595

@@ -13,6 +13,8 @@ Here, I organize all the floating bits and pieces of my capstone project for my 
 - [[MESH-CAP-A]] Collective creating or organizing with a file type  
 - [[MESH-CAP-C]] Visual space for sharing of needs and collaboration around ideas 
 - [[MESH-CAP-E]] canvas "discussions" as an explorative map
+- [[CO-CREATIVE-ECONOMY-A]] creating a container for collaboration 
+- [[MMSSensingA]] Our senses are all we have yet are only a small part of our whole selves. The universe needs to touch itself
 
 ## Educational container 
 - [[MESH-CAP-F]] Surfacing slow violence within education
