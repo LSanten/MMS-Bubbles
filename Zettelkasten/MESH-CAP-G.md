@@ -2,11 +2,9 @@
 Here I collect things I want and need to create. They are partially deliverables for my capstone, but they don't have to be. 
 
 ## TEAR 1: Highest tear: i can do right now and use for my research/design
---> create the map of capstone projects in the works of my cohort and ask students from other cohorts if it would be helpful to have connections in that space (see the map and engage with these people)
+--> create the **map of capstone projects in the works** of my cohort and ask students from other cohorts if it would be helpful to have connections in that space (see the map and engage with these people)
 
---> a list of tools and practices useful and necessary for an organized work flow: zettelkasten/obsidian [[MESH-CAP-G1]]
-
---> living 
+--> REQUIRES INVESTIGATION: **a map of trusted co-ops and work businesses for a just, regenerative economy** with the focus on local supply chains and networks. (is there a need for this? Bogdan mentioned that it's helpful to know if a certain plumbing co-op is actually trustworthy etc.)
 
 ## TEAR 2: very keystone pieces of longer timeline relevance 
 --> a document of recommendations to improve MESH concretely: e.g. reative work practice advice 
@@ -30,3 +28,6 @@ Practices for ESJP
 ### non-linear communication blackboard style
 
 ### seeing each others projects on a map
+
+### saving semi-relevant
+--> a list of tools and practices useful and necessary for an organized work flow: zettelkasten/obsidian [[MESH-CAP-G-1]]
