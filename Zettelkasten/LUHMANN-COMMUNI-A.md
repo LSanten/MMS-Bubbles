@@ -1,4 +1,4 @@
-# It is not individuals but the structures through which they communicate that shape our world 
+# It is not individuals but the structures through which they communicate that build our social systems (which are different from psychic systems) 
 Every construct we use is a structure that inherently influeces how communication is accepted and rejected and when it emerges (acceptance). Communication is differnt from consciousness. Communication can never be true to consciousness yet we need it because we aren't psychically connected to know what others experience in their heads. 
 
 Therefore, we might want to think about communication structures that allow for flow of communication that is conducive to specific types of communication we would like to see emerge. (structure conditions behavior; specific environments are conducive to specific forms of emergence)
