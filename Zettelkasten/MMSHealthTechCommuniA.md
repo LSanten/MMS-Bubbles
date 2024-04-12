@@ -15,6 +15,8 @@ I currenlty draw excitement from an internal vision to illustrate how a well-kno
 
 ## How to bring the message across: 
 
+**Narrative**: As far as I understand, it is bad for batteries to charge and discharge them constantly. Why does apple now allows users to keep the battery at a working charge of 50%? Why does apple not help users to mangage the battery health of their devices? From my perspective, as a _caring_ engineering community, we should be concerend with communication about maintenance. 
+
 🫧 **Aesthetics - fonts, style, using familiar visual language**:
 
 For instance, we could create an advertisement that reads: 

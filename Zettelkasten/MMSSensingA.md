@@ -3,6 +3,9 @@
 I explore the idea sensing our world and tuning into deeper forms of being in my blog post on [community mapping](https://www.omprakash.org/blog/leon-capstone-blog-week-6-community-mapping).
 
 ![](../media/MMSSensingA-01.png)
+EDIT: instead of "sensing each other": maybe one side senses the other side and then have arrows instead of a bracket
+
+EDIT: title: how form is part of experience but our whole reality extends beyond it  - a visual metaphor for a phenomenon described by eckhard tolle 
 ![](../media/MMSSensingA-02.png)
 
 

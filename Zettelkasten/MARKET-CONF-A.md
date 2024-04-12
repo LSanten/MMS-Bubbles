@@ -29,7 +29,7 @@ Below is a collection of space design concepts to enable the asynchronous (not n
 This is essentially a deeper split-up of a "needs" section. I am unsure if this division is necessary. It might help to streamline communication as some orgs or people are interested in very specific forms of collaboration or work. 
 
 ### "You may reach out to me when you or your org is interested in talking or building movement in the spaces of..."
-The focus of this space would be to get to know each other and connect over shared interests or movement building efforts. This space could be created by seting up wall space where people can introduce themselves on large sticky notes with their interests or asks/needs and offers. They may add phone numbers or other ways to contact them throughout the conference. (little idea on top: option to pay for a quick printout of their face could be added)
+The focus of this space would be to get to know each other and connect over shared interests or movement building efforts. This space could be created by seting up wall space where people can introduce themselves on large sticky notes with their interests or asks/needs and offers. They may add phone numbers or other ways to contact them throughout the conference. (little idea on top: option for a quick printout of their face could be added)
 
 ### "Seeking collaborators in ..."
 This space is slightly different from movement building as it focuses on concrete collaborations. For instance, someone may have the need for a software programmer or a visual artist to collaborate on an already existing project. 

@@ -8,7 +8,7 @@
 - we are whole to begin with, there is nothing that needs to be fixed but much to be healed
 - how to self-actualize? dynamic models for maintenance & transformation [[MASLOWS-NEEDS-BEYOND]]: life requires continuous maintenance on all ends 
 - understanding the "what is happening": you need to control large amounts of labor & capital to exploit nature; massive amounts of coercion: "mountains don't blew up by themselves" - Gopal Dayane [[CLIMATE-CHANGE-A]]
-- the caus of the crisis is in injustice, so we need to transform relationships of power [[CLIMATE-CHANGE-A]]
+- the cause of the crisis is in injustice, so we need to transform relationships of power [[CLIMATE-CHANGE-A]]
 - engineers are entitled to controlling resources without (reflecting on it). entitlement is infringement on the commons - since commons, we ned to cooperate to represent public needs [[ENTITLEMENT-A]]
 
 ________
