@@ -7,7 +7,7 @@ And his group of research to develop his concept was comprised mostly of white m
 Native self-actualization model: https://www.youtube.com/watch?v=ONTAefdVs5o
 
 Scott Berry Kaufmann 
-![](../media/2023-09-19 10-49 Pasted Image.png)
+![](../media/cleanshot_2024-04-13-at-19-06-57@2x.png)
 
 Manfred Max-Neef's fundamental human needs
 ![](../media/2023-09-19 10-51 Pasted Image.png)

@@ -11,12 +11,8 @@
             "id": "41b0daf6efd9817c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CIRCULAR-ECON-A.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CIRCULAR-ECON-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CIRCULAR-ECON-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CIRCULAR-ECON-A.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,9 @@
   },
   "active": "41b0daf6efd9817c",
   "lastOpenFiles": [
+    "MMSSocialReproductionB.md",
+    "MESH-CAP-OVERVIEW.md",
+    "CIRCULAR-ECON-A.md",
     "CERT-ORG.md",
     "AUTOPOIESIS-A.md",
     "202309131344.md",
@@ -168,7 +163,6 @@
     "CIRCULAR-ECON-E.md",
     "CIRCULAR-ECON-B.md",
     "CIRCULAR-ECON-F.md",
-    "CIRCULAR-ECON-A.md",
     "202308212300.md"
   ]
 }
