@@ -9,9 +9,6 @@ Bhargo devasya dhimahi (Bar-go Day-vas-ya Dhee-ma-hee)
 Dhiyo yo nah prachodayat (Dhee-yo Yo Nah Pra-cho-da-yaat)
 Dhiyo yo nah prachodayahane
 
-- order bench top supply
-- order nice simple nose piercing
-
 ![](../media/cleanshot_2024-04-19-at-23-01-02@2x.png)
 https://www.youtube.com/watch?v=GCuu8Ri9G-o&t=
 # A word-for-word translation is:
