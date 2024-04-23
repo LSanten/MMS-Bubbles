@@ -1,8 +1,8 @@
 # list of tools and practices useful and necessary for an organized work flow
 
 - [An Updated Academic Workflow: Zotero & Obsidian](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
-- Citation manager: [Zotero](https://www.zotero.org/) for saving resources
-- Introduction to organizing your personal knowledge: https://christiantietze.de/posts/2020/10/zettelkasten-introduction/
+- Citation manager: [Zotero](https://www.zotero.org/) is great. free and open source. Great industry standard for saving resources, creating citations lists, saving images, annotations on papers 
+- Introduction to organizing your personal knowledge: https://christiantietze.de/posts/2020/10/zettelkasten-introduction/ - this can be really really helpful to manage large amounts of insights and knowledge that relate to each other in a simple way (like mine [over here](https://github.com/LSanten/MMS-Bubbles/tree/main/Zettelkasten))
 - Figma or Miro with an educational accocunt can be super helpful for mapping out thoughts
 
 ## Looking at the work of MESH as an apprenticeship. What work tips would you master give you? 
