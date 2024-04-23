@@ -3,7 +3,7 @@
 - [An Updated Academic Workflow: Zotero & Obsidian](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd)
 - Citation manager: [Zotero](https://www.zotero.org/) for saving resources
 - Introduction to organizing your personal knowledge: https://christiantietze.de/posts/2020/10/zettelkasten-introduction/
-- Figma or Miro with an educational accocunt
+- Figma or Miro with an educational accocunt can be super helpful for mapping out thoughts
 
 ## Looking at the work of MESH as an apprenticeship. What work tips would you master give you? 
 Unless someone introduces you to having this stuff around yourself, you won’t get it. You don't know the value of something that you have never practicced. Learning how to pour out your thoughts & explore your creative source may require more than materials. Raising awareness regarding tools & practices would fit well into the intro course but should be taken up in other courses. 
