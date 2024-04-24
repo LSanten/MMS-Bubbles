@@ -19,7 +19,7 @@ Here, I organize all the floating bits and pieces of my capstone project for my 
 ## Educational container 
 - [[MESH-CAP-F]] Surfacing slow violence within education
 - [[MESH-CAP-B]] if we ask or share why we care, it's easier to care to read someone else's stuff 
-- [[MESH-CAP-G1]] A list of tools and practices useful and necessary for an organized work flow
+- [[MESH-CAP-G-1]] A list of tools and practices useful and necessary for an organized work flow
 
 
 ## Empty to use next
