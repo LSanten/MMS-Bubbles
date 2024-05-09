@@ -9,7 +9,7 @@ Ontological primitives are the essences from which our actions and behaviors ari
 
 *maybe one can say that we need to "meet" in all these domains to connect with each other fully*
 
-Insight: the environment in which we do work is more important than the work we do. When we do work, we always build something bigger than just the project we work on. This bigger thing then brings forth a whole new being of existence that cannot be reduced to a piece of material creation. This energetic (non-material) creation continues to grow its ontolgocila primitives. Therefore, it matters more that we pay attention to the space we create rather than the outcomes of them. 
+Insight: When we do work, we always build something bigger than just the project we work on. This bigger thing then brings forth a whole new being of existence that cannot be reduced to a piece of material creation. This energetic (non-material) creation continues to grow its ontolgocila primitives. Therefore, it matters more that we pay attention to the space we create rather than the outcomes of them. 
 
 This also leads to the realization that it is less important how productive we are or that we do "enough" work. It is more important that we do the work within a certain caring & loving environemnt and with good energy & intentions. These energies will continue to swirl and grow whereas the project will always be done and interest into it will fall apart naturally (as all identities do). But values, sense of the sacred etc are not identities. (#education #space-holding)
 
