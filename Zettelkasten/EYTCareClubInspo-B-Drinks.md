@@ -2,7 +2,7 @@
 #careClub #inspiration
 I desire nourishing drinks during a long night of dancing. 
 
-![](../media/cleanshot_2024-03-10-at-10-36-19@2x.png)
+![](media/cleanshot_2024-03-10-at-10-36-19@2x.png)
 
 
 ## tea to soothe my stomach & soul
@@ -31,7 +31,7 @@ I desire nourishing drinks during a long night of dancing.
 **Jules:** electrolytes for energy, hydration, and connection. like fuel for a fire --> building social neuro-pathways
 
 
-![](../media/cleanshot_2024-03-10-at-10-58-08@2x.png)
+![](media/cleanshot_2024-03-10-at-10-58-08@2x.png)
 
 
 

@@ -11,8 +11,12 @@
             "id": "41b0daf6efd9817c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NOTETAKING-A.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "note takin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NOTETAKING-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NOTETAKING-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NOTETAKING-A.md"
+              }
             }
           }
         ]
@@ -140,6 +149,30 @@
   },
   "active": "41b0daf6efd9817c",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2024-07-21.md",
+    "BIOMIMICRY-A.md",
+    "BELIEVING-A.md",
+    "AYURVEDA-DOSHAS.md",
+    "APPS-USEFUL-A.md",
+    "APP-IDEA-C.md",
+    "APP-IDEA-B.md",
+    "media/0A68EA44-C3F0-4655-9480-D6A89A2F6F35_1_201_a.heic",
+    "media/1200px-Power_system_layout.png",
+    "media/2023-07-30 22-50 Pasted Image.png",
+    "media/2023-08-20 13-45 Pasted Image.png",
+    "media/2023-08-20 13-46 Pasted Image-1.png",
+    "media/2023-08-20 13-46 Pasted Image-2.png",
+    "media/2023-08-20 13-46 Pasted Image-3.png",
+    "media/2023-08-20 13-46 Pasted Image.png",
+    "media/2023-08-20 14-07 Pasted Image.png",
+    "media/2023-08-20 14-11 Pasted Image.png",
+    "media/2023-08-20 14-17 Pasted Image.png",
+    "media/IMG_7966.heic",
+    "media",
+    "untitled folder",
+    "APP-IDEA-A.md",
+    "AGRICULTURE-A.md",
     "MMSSocialReproductionB.md",
     "MESH-CAP-OVERVIEW.md",
     "CIRCULAR-ECON-A.md",
@@ -147,7 +180,6 @@
     "AUTOPOIESIS-A.md",
     "202309131344.md",
     "ADAPT-CHANGE.md",
-    "AGRICULTURE-A.md",
     "ANARCH-COUPLE-A.md",
     "ADAPT-CYCLES-A.md",
     "ENGINEERING-A.md",
@@ -156,13 +188,6 @@
     "ECON-GROWTH-A.md",
     "ELECYT-MUSIC-VIZ-IDEAS.md",
     "ECOLOGY-A.md",
-    "ELECYT-LASER-VIZ-A.md",
-    "CLIMATE-CHANGE-A.md",
-    "CLIMATE-ACT-VENN-A.md",
-    "CIRCULAR-ECON-G.md",
-    "CIRCULAR-ECON-E.md",
-    "CIRCULAR-ECON-B.md",
-    "CIRCULAR-ECON-F.md",
-    "202308212300.md"
+    "ELECYT-LASER-VIZ-A.md"
   ]
 }

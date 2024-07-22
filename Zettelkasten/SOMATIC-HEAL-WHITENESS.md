@@ -6,7 +6,7 @@ How do we live more below the neck and change change from the body and up?
 The more our movements can be embodied, the more we can replicate sustainable change."
 
 Dona Hirschfield-White: "a relaxed body is a powerful body"
-![](../media/Screenshot-2023-10-05.png)
+![](media/Screenshot-2023-10-05.png)
 
 
 

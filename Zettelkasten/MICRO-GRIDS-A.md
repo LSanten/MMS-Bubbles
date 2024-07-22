@@ -2,14 +2,14 @@
 
 
 ## A schematic for a small off-the-grid solar + hydro system
-![](../media/cleanshot_2023-11-25-at-13-56-21@2x.png)
+![](media/cleanshot_2023-11-25-at-13-56-21@2x.png)
 [1] - a microgrid with two solar panel arrays and a microhydro generator (very small water turbine). The "arduino control unit" can be ignored. It was an additional add-on to monitor the battery voltage to prevent battery health decay. 
 
 
 ## Aspects of energy sovereignty projects...
 I created this graphic to illustrate the variety of dimensions that are crucial when working with communities to realize their **energy sovereignty**. 
 
-![](../media/cleanshot_2023-11-25-at-15-22-53@2x.png)
+![](media/cleanshot_2023-11-25-at-15-22-53@2x.png)
 
 
 **Energy sovereignty & energy democracy** - how to work with community:

@@ -23,8 +23,8 @@ For instance, we could create an advertisement that reads:
 "We at Apple care about the longevity of our products their impact on our planet. For that reason, we are all working together to keep the health of our products as high as possible"
 
 In the past, I have played around with appropriating fonts and branding to strenthing the message. I similarly plan to use a sleek font on known user interface to convey how differently producers of products could communicate with the user. Below are examples of satirical illustrations that I created by modifying apple's web page. 
-![](../media/cleanshot_2023-11-02-at-15-01-44@2x.png)
-![](../media/cleanshot_2023-11-02-at-15-02-54@2x.png)
+![](media/cleanshot_2023-11-02-at-15-01-44@2x.png)
+![](media/cleanshot_2023-11-02-at-15-02-54@2x.png)
 
 
 

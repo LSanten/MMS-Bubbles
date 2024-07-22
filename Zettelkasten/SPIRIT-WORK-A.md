@@ -6,10 +6,10 @@ we need to learn how to "work with ourselves" which is the action that arises ou
 
 This illustration also lives on page D-4 of my paper on [How can we transform ourselves? - Spirituality and ecological justice](http://www.leonsanten.info/contemplatingChangeForEJ.html).
 
-![](../media/cleanshot_2023-12-12-at-03-41-46@2x.png)
+![](media/cleanshot_2023-12-12-at-03-41-46@2x.png)
 #improvement #illustration : draw such that swirls create new tornados that have a still center
 
 --> the smaller and larger forms of working with ourselves relate to adaptive concentric circle ideas mentioned in the IPCC report AR6 [[ADAPT-CYCLES-A]]
 ## 
 #divergence #compression #creativity 
-![](../media/DD255F75-BCED-437A-ACC3-B650E2710B2A_1_105_c.jpeg)
+![](media/DD255F75-BCED-437A-ACC3-B650E2710B2A_1_105_c.jpeg)

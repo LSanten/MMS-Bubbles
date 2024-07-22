@@ -4,7 +4,7 @@ I tend to contemplate the invisible nature of waste in cities. Where does it go?
 
 A lot of the waste problem goes deeper than awareness, but I find this part particularly interesting. How to give the community insights into how the system operates? The parts of the system that remain hidden are able to control the system without any feedback to be changed.
 
-![](../media/cleanshot_2024-04-19-at-23-29-15@2x.png)
+![](media/cleanshot_2024-04-19-at-23-29-15@2x.png)
 https://fastly.4sqi.net/img/general/1398x536/30867711_uzNa9Jd2GgwHmv75rNJ2pJPe_mKvl2ED9uCH6_lmyVc.jpg
 
 

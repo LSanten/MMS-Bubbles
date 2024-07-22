@@ -15,7 +15,7 @@
 
 ## Food recovery hierachy 
 
-![](../media/cleanshot_2023-11-17-at-09-15-37@2x.png)
+![](media/cleanshot_2023-11-17-at-09-15-37@2x.png)
 
 
 --> [Roadmap to reduce US food waste by 20 percent](https://refed.org/downloads/Key_Insights.pdf)

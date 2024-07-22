@@ -1,7 +1,7 @@
 # Notice how we justify killing
 I am interested in the intersection of logic and violence as they conditioning each other. When we go into our heads and start to argue with logic about destruction, we naturally move away from reality. 
 
-![](../media/MMSTuningIntoSeparation.jpeg)
+![](media/MMSTuningIntoSeparation.jpeg)
 
 We know that Western humans mostly use their left hemisphere to engage with reality. Actions arisen from the left hemispere of our brain show very different patterns compared with the right hemisphere (from [[MCGILCHRIST2021-VID]]): 
 

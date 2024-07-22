@@ -5,4 +5,4 @@ By re-connecting to and remembering our (collective) selves we can tune into emb
 
 
 #oppression #liberation #holism #framework
-![](../media/MMSHealthAutopoiesis-merge-03.png)
+![](media/MMSHealthAutopoiesis-merge-03.png)

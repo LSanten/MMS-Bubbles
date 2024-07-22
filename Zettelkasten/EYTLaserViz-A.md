@@ -18,7 +18,7 @@ Even though I mention prototype versions below, every system's visual mostly dep
 
 
 ## The general mechanics-based concept to create visuals
-![](../media/ELECYT-LASER-VIZ-A-general-graphics-01.png)
+![](media/ELECYT-LASER-VIZ-A-general-graphics-01.png)
 
 
 # Events where I installed the laser
@@ -26,9 +26,9 @@ Even though I mention prototype versions below, every system's visual mostly dep
 ## Night market for the afro-futuristic comic book Quasar
 I worked together with Gideon O Egbuchulam to shape the environment of a [dance event and night market](https://www.instagram.com/p/CzT37VSL3ri/?img_index=1) with the purpose to promote his new afro-futuristic comic book Quasar Soliders. The  electronic & mechanical appearnace of the visualizer created a hacky, futuristic sci-fi experience that matched the aesthetic of the comic and animated video playing from an old TV. 
 
-![](../media/ELECYT-LASER-VIZ-A-general-graphics-02.png)
+![](media/ELECYT-LASER-VIZ-A-general-graphics-02.png)
 
-![](../media/ELECYT-LASER-VIZ-A-general-graphics-03.png)
+![](media/ELECYT-LASER-VIZ-A-general-graphics-03.png)
 
 I developed this second prototype to explore the effects of a glow-in-the-dark canvas that is charged up by the UV/purple laser. The effect is not as interesting as expected. The 
 
@@ -42,16 +42,16 @@ a video of the laser when bass is low to illustrate that the momvement of the vi
 
 The biggest part of building the second prototype was the development of a fully wireless system. The visualizer can be controlled via a remote control that I built myself and the music signal is sent wirelessly, making installation and fine-tuning much easier. 
 
-![](../media/ELECYT-LASER-VIZ-A-general-graphics-04.png)
+![](media/ELECYT-LASER-VIZ-A-general-graphics-04.png)
 
 
 ## Skiis DJing at Fault radio with laser visualizer in the background Sept 18 2022
 This was a larger event with several DJs, vendors, and artist. In [this YouTube video](https://www.youtube.com/watch?v=yF6J6Qs61sM), Skiis DJs with the laser in the background. **The laser's movement in [this video](https://www.youtube.com/watch?v=yF6J6Qs61sM) is particularly fun because it bounces around quite dynamically**. I received enthusiam from a few people as they had never seen a visualizer that didn't use a projector or screen before. 
-![](../media/cleanshot_2023-11-06-at-20-38-04@2x.png)
+![](media/cleanshot_2023-11-06-at-20-38-04@2x.png)
 
 The laser I used at this event was my first legit prototype (V1) using a commonly available JBL speaker and looked as follows:
 
-![](../media/cleanshot_2023-11-06-at-21-01-27@2x.png)
+![](media/cleanshot_2023-11-06-at-21-01-27@2x.png)
 
 
 

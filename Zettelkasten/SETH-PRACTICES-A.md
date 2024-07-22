@@ -9,12 +9,12 @@ Kundalini Yoga gets a little weird when it comes to the groups that form around 
 [Raw Kundalini Yoga Video with Yogi Emmanuelle
 ](https://www.youtube.com/watch?si=dH0dzXLMzeN_QVSo&v=x9tRMpOSC_o&feature=youtu.be)
 
-![](../media/cleanshot_2023-12-29-at-10-10-33@2x.png)
+![](media/cleanshot_2023-12-29-at-10-10-33@2x.png)
 
 ## Innovators Compass [link here](https://innovatorscompass.org/use-it#quickstart)
 This tool can be very helpful for taking a step back and reflecting on a particular *threshold area* of your life. It is meant to get the flow going and help you refine your reflection. Roughly take 5 minutes for every step. If you're faster that's ok. Sometimes, it takes a second for people to get into the new space of each part. Just give yourself some time.  
 
-![](../media/cleanshot_2023-12-29-at-10-27-50.png)
+![](media/cleanshot_2023-12-29-at-10-27-50.png)
 
 - First, think about your area where you seek to progress or feel stucked.
 - Start by drawing a small circle and an intersecting cross as below onto a bigger piece of paper. 
@@ -27,7 +27,7 @@ This tool can be very helpful for taking a step back and reflecting on a particu
 
 I'd love for you to share how this goes once you've done it. If it makes sense or is too much structure for you <3 
 
-![](../media/cleanshot_2023-12-29-at-10-23-13.png)
+![](media/cleanshot_2023-12-29-at-10-23-13.png)
 
 
 ## 45 min qigong

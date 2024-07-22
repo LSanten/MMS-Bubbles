@@ -1,12 +1,12 @@
 # the propositions or interests of the social & natural sciences
 
-![](../media/2023-09-11 09-49 Pasted Image.png)
+![](media/2023-09-11 09-49 Pasted Image.png)
 (Wright 2013)
 
-![](../media/2023-09-11 09-51 Pasted Image.png)
+![](media/2023-09-11 09-51 Pasted Image.png)
 (Vanasupa & Barabino 2021)
 
-![](../media/2023-09-11 10-39 Pasted Image.png)
+![](media/2023-09-11 10-39 Pasted Image.png)
 (Haverkamp et. al )
 
 #phil-of-science #science #interests #knowledge-constitutive-interests

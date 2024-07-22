@@ -1,6 +1,6 @@
 # Empistemological bubbles of my capstone project
 
-![](../media/roots of capstone-03.png)
+![](media/roots of capstone-03.png)
 
 
 **Bubbles to add:**

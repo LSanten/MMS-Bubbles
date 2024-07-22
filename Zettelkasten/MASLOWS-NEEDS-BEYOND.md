@@ -7,10 +7,10 @@ And his group of research to develop his concept was comprised mostly of white m
 Native self-actualization model: https://www.youtube.com/watch?v=ONTAefdVs5o
 
 Scott Berry Kaufmann 
-![](../media/cleanshot_2024-04-13-at-19-06-57@2x.png)
+![](media/cleanshot_2024-04-13-at-19-06-57@2x.png)
 
 Manfred Max-Neef's fundamental human needs
-![](../media/2023-09-19 10-51 Pasted Image.png)
+![](media/2023-09-19 10-51 Pasted Image.png)
 
 ________
 What Maslow Missed in his Hierarchy of Needs - The Native Self Actualization Model: An Interview... - YouTube. (n.d.). Retrieved September 19, 2023, from https://www.youtube.com/watch?si=w8RpmQw7mYKtDfPb&v=ONTAefdVs5o&feature=youtu.be&themeRefresh=1

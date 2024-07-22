@@ -5,7 +5,7 @@ Imagine you are an engineer and on your deathbed. You invented an energy-efficie
 
 https://www.omprakash.org/blog/radical-solutions-for-a-circular-economy
 
-![](../media/cleanshot_2023-11-13-at-18-39-57@2x.png)
+![](media/cleanshot_2023-11-13-at-18-39-57@2x.png)
 
 
 #MMS-seed #MMS-post #todo

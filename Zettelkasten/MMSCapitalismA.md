@@ -8,12 +8,13 @@ Henry, M. S. (2023). Chapter 2: Freedom Dreams for Flint: Imagining a Just Tran
 
 More in-depth info you can find in the section [[OVERVIEW-CAPITALISM]].
 
-![](../media/MMSCapitalismA-2.png)
+![](media/MMSCapitalismA-2.png)
 
-![](../media/MMSCapitalismA-3.png)
+![](media/MMSCapitalismA-3.png)
 
 ________
-#quote #capitalism #oppression #just-transition #racial-capitalism #black-marxism
+#quote #capitalism #oppression #just-transition #racial-capitalism 
+#black-marxism
 ________
 REFERENCES
 

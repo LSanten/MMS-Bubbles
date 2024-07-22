@@ -7,13 +7,13 @@ In most club settings, the DJ is lifted above the crowd. No invitation to engage
 I will always remember those parties as the most fulfilling where the music and dance energy arose from the contributions of all my friends around me. 
 
 
-![](../media/IMG_2739.jpg)
+![](media/IMG_2739.jpg)
 
-![](../media/IMG_2740.jpg)
-![](../media/IMG_2741.jpg)
+![](media/IMG_2740.jpg)
+![](media/IMG_2741.jpg)
 
-![](../media/IMG_2742.jpg)
+![](media/IMG_2742.jpg)
 
-![](../media/IMG_2738.jpg)
+![](media/IMG_2738.jpg)
 
-![](../media/IMG_7966.heic)
+![](media/IMG_7966.heic)

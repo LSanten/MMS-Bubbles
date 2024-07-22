@@ -5,7 +5,7 @@ Ela Ben-Ur developed the design tool called the Innovators Compass (website [her
 (IV) Ideas: What ways are there?
 (V) Experiments: What’s a step to try?
 
-![](../media/cleanshot_2024-04-12-at-14-13-25@2x.png)
+![](media/cleanshot_2024-04-12-at-14-13-25@2x.png)
 
 see [[LIBERATORY-DESIGN-A]] as a generalized framework that is embodied by the innvovators compass as a tool
 

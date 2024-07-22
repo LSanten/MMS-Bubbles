@@ -6,8 +6,8 @@ I started an instagram account with the name @mostly.mutual.studio to start the 
 This is a technical project as well as a research exploration. The first few sharings are more of archival nature. However, my plan is to create more generative & collaborative work down the road. 
 
 Below is the slide that captures the original ideas behind this platform creation.
-![](../media/MMSCommuniA-1.png)
-![](../media/MMSCommuniA-2.png)
-![](../media/MMSCommuniA-3.png)
+![](media/MMSCommuniA-1.png)
+![](media/MMSCommuniA-2.png)
+![](media/MMSCommuniA-3.png)
 
 #MMS #publicBubble

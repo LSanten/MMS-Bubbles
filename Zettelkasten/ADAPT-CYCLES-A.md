@@ -1,9 +1,9 @@
 # adaptive cycles help us to understand how to transform our systems
 
-![](../media/cleanshot_2024-04-09-at-20-30-15@2x.png)
+![](media/cleanshot_2024-04-09-at-20-30-15@2x.png)
 [1]
 
-![](../media/Adaptive-Cycle-Environment.png)
+![](media/Adaptive-Cycle-Environment.png)
 [2]
 
 Holling's ideas need to be added here

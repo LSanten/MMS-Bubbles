@@ -7,7 +7,7 @@ If the US had the population of India and kepts its ratio, its military aparatus
 
 Worded differently, per capita, the US DoD is 4.15x larger than the Indian Ministry of Defence. 
 
-![](../media/cleanshot_2023-11-03-at-13-58-06@2x.png)
+![](media/cleanshot_2023-11-03-at-13-58-06@2x.png)
 
 ## US Yearly defense expenses are at least 2.21x larger than the one-time "milestone" investment from the Inflaction Reducation Act to fight climate change 
 
@@ -33,7 +33,7 @@ The numbers below and above are directly taken from the US Government reports. I
 
 ## World-wide military expenses compared with peacebuilding expenses
 
-![](../media/cleanshot_2023-11-27-at-19-21-59@2x.png)
+![](media/cleanshot_2023-11-27-at-19-21-59@2x.png)
 [7] - UN report
 
 ## Media with no specific categorization as of now
@@ -41,7 +41,7 @@ The numbers below and above are directly taken from the US Government reports. I
 ### Capitalism and the military industrial complex are deeply interwoven 
 They socially reproduce themselves in our social structures [[MMSSocialReproductionA]].
 
-![](../media/cleanshot_2023-10-17-at-20-25-10@2x.png)
+![](media/cleanshot_2023-10-17-at-20-25-10@2x.png)
 
 Regarding this topic, also look at Alvares' take on how the [scientific method is deeply violent in nature and intertwined with colonialism & capitalism](https://archive.unu.edu/unupress/unupbooks/uu05se/uu05se07.htm). Also see my illustration [[HistOfSci-A]].
 

@@ -9,4 +9,4 @@ As emotions are body-processed language and therefore an access point to embodie
 
 The image below is a playful exploration of visualization of needs in a social field of several people. It is not meant to be a final product. 
 
-![](../media/cleanshot_2024-02-25-at-16-36-52@2x.png)
+![](media/cleanshot_2024-02-25-at-16-36-52@2x.png)

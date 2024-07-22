@@ -1,7 +1,10 @@
 
 # Autopoiesis and the re-production of social systems 
 **Links from the Post** [MMSSocialReproductionA](https://www.instagram.com/p/Cyhl4TSsqdh/?img_index=1)
-- [1] - Haiven, & Khasnabish. (2014). Why social movements need the radical imagination. OpenDemocracy. https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/- [2] - Khasnabish, D. A., & Haiven, M. (2014). The Radical Imagination: Social Movement Research in the Age of Austerity (p. 280). Zed Books.- [3] - Albert, M. (2016). Luhmann and systems theory (Vol. 1). Oxford University Press. https://doi.org/10.1093/acrefore/9780190228637.013.7- [4] - Luhmann, N., Schmidt, J. F. K., & Kieserling, A. (2017). Systemtheorie der Gesellschaft (Erste Auflage.). Suhrkamp.
+- [1] - Haiven, & Khasnabish. (2014). Why social movements need the radical imagination. OpenDemocracy. https://www.opendemocracy.net/en/transformation/why-social-movements-need-radical-imagination/
+- [2] - Khasnabish, D. A., & Haiven, M. (2014). The Radical Imagination: Social Movement Research in the Age of Austerity (p. 280). Zed Books.
+- [3] - Albert, M. (2016). Luhmann and systems theory (Vol. 1). Oxford University Press. https://doi.org/10.1093/acrefore/9780190228637.013.7
+- [4] - Luhmann, N., Schmidt, J. F. K., & Kieserling, A. (2017). Systemtheorie der Gesellschaft (Erste Auflage.). Suhrkamp.
 
 Understanding life as "autopoietic" shines a light on the living, re-producing
 nature of systems that we create. A factory for airplanes, for instance, is
@@ -11,7 +14,7 @@ When we consider capitalism, it stands out to me that the military industrial co
 
 See below how the military complex lives in synergy with the investment (stock) system to keep itself alive. Both capitalist stock investments and military efforts are rooted in value systems of extracting resources for profit from other places by exerting power over people & land. These systems re-produce new companies, institutions, and social containers that keep their values & purpose alive. Power over land & people = colonialism.
 
-![](../media/cleanshot_2023-10-17-at-20-25-10@2x.png)
+![](media/cleanshot_2023-10-17-at-20-25-10@2x.png)
 
 The idea that **capitalism is based on free land, labor, care**, etc, is nicely explained over here:[ History of the World in Seven Cheap Things: A Guide to Capitalism, Nature, and the Future of the Planet](https://truthout.org/articles/humans-arent-inherently-destroying-the-planet-capitalism-is/)
 
@@ -23,11 +26,11 @@ Based on the theory from above, it become obvious that extractive, violent condi
 Therefore, I argue, we can only heal our planet by living healthy, balanced lives. This includes the constant reflection on violence (aggressive language or transactional, reductive relationships) in our personal lives. More on integrating healing & regeneration into social systems is summarized in this post with ID [[MMSSocialReproductionB]].
 
 ## Original Post - MMSSocialReproductionA
-![](../media/MMSSocialReproductionA-1.png) 
+![](media/MMSSocialReproductionA-1.png) 
 
-![](../media/MMSSocialReproductionA-2.png) 
+![](media/MMSSocialReproductionA-2.png) 
 
-![](../media/MMSSocialReproductionA-3.png) 
+![](media/MMSSocialReproductionA-3.png) 
 
 
 

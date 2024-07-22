@@ -6,26 +6,26 @@
 - world-wide military spendings increased 21% since 2013
 - the military is used increasingly to *push away* climate migrants and social uprisings due to climate injustice (also see Slide on Arms exports from wealthy countries to climate vulnerable countries)
 
-![](../media/cleanshot_2023-11-28-at-07-47-40@2x.png)
+![](media/cleanshot_2023-11-28-at-07-47-40@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-07-49-05@2x.png)
+![](media/cleanshot_2023-11-28-at-07-49-05@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-07-49-34@2x.png)
+![](media/cleanshot_2023-11-28-at-07-49-34@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-07-50-34@2x.png)
+![](media/cleanshot_2023-11-28-at-07-50-34@2x.png)
 
 Relative to Israel's size, it is the largest arms dealer. Spends 24 bln dollar / a year on military. The US department of Defense is the second largest employer world-wide, and per capita, it is more than 4x larger than the Indian defence department (which is the largest employer world-wide) [[MILIT-A]].
 
-![](../media/cleanshot_2023-11-28-at-07-53-33@2x.png)
+![](media/cleanshot_2023-11-28-at-07-53-33@2x.png)
 climate change is being talked about as a "security threat" to national security. Threat to operations of the military (sea bases), or poor countries becoming a threat to rich countries due to conflict and migration - so migration needs to be controlled. 
 
 ANNOTATION: colors above should be flipped.
 
-![](../media/cleanshot_2023-11-28-at-07-55-44@2x.png)
+![](media/cleanshot_2023-11-28-at-07-55-44@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-07-56-36@2x.png)
+![](media/cleanshot_2023-11-28-at-07-56-36@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-07-57-04@2x.png)
+![](media/cleanshot_2023-11-28-at-07-57-04@2x.png)
 
 
 
@@ -33,15 +33,15 @@ ANNOTATION: colors above should be flipped.
 ### **[Less War, Less Warming: A Reparative Approach to US and UK Military Ecological Damages](https://www.common-wealth.org/publications/less-war-less-warming-a-reparative-approach-to-us-and-uk-military-ecological-damages)**
 
 US soldier now consumes around 20 gallons a day 
-![](../media/cleanshot_2023-11-28-at-08-00-00@2x.png)
+![](media/cleanshot_2023-11-28-at-08-00-00@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-08-01-14@2x.png)
+![](media/cleanshot_2023-11-28-at-08-01-14@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-08-03-35@2x.png)
+![](media/cleanshot_2023-11-28-at-08-03-35@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-08-03-56@2x.png)
+![](media/cleanshot_2023-11-28-at-08-03-56@2x.png)
 
-![](../media/cleanshot_2023-11-28-at-08-05-53@2x.png)
+![](media/cleanshot_2023-11-28-at-08-05-53@2x.png)
 
 using military to compensate for the lack of social structure by sourcing from all over the world/US. 
 

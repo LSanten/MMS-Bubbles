@@ -1,6 +1,6 @@
 # Envisioning architectural & engineering relationships to the land inspired by  indigenous ways of being
 July 2023 - Blog post
-![](../media/banner-ohlone.png)
+![](media/banner-ohlone.png)
 ________
 The indigenous Ohlone tribe established the first human settlements on the San Francisco shore 5,000 years ago in a place called the “West Berkeley Shellmound.”
 ________

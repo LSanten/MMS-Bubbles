@@ -5,7 +5,7 @@ So i argue that we need more than just imagination. We need the practice of imag
 
 Whenever we seek to bring about change, we need to make a first step into a new world (Otto Scharmer & Katrin Kaufer). 
 
-![](../media/cleanshot_2023-10-19-at-14-02-44@2x.png)
+![](media/cleanshot_2023-10-19-at-14-02-44@2x.png)
 
 __________
 McGilchrist, I. (2021). The Matter With Things: Our Brains, Our Delusions, and the Unmaking of the World (p. 1500). Perspectiva.

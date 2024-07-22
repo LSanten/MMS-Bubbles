@@ -20,7 +20,7 @@ This market could allow people to find answers to the following question:
 - how could the conference do better?
 
 the list above is inspired by my design prototype concept with which I seek to share a variety of "bubbles" in the fields of ideas, insights, project proposals with my friends. 
-![](../media/cleanshot_2023-11-01-at-11-45-46@2x.png)
+![](media/cleanshot_2023-11-01-at-11-45-46@2x.png)
 
 
 ## Concrete ideas: what forms of wall space or room space could we create?

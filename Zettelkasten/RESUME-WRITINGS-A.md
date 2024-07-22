@@ -1,5 +1,5 @@
 # What does it mean to be a holistic engineer?
-![](../media/banner-holism.png)
+![](media/banner-holism.png)
 June 2021 - Bachelor's Thesis
 ____________ 
 omplex systems thinking • participatory research methedologies • reductionism of the scientific method

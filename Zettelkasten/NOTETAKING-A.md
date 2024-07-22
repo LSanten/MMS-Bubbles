@@ -12,5 +12,5 @@
 
 
 
-![](../media/cleanshot_2023-11-13-at-17-15-31@2x.png)
+![](media/cleanshot_2023-11-13-at-17-15-31@2x.png)
 

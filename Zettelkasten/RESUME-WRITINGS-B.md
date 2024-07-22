@@ -1,5 +1,5 @@
 # Spirituality and ecological justice: How can we transform ourselves?
-![](../media/banner-spirit.png)
+![](media/banner-spirit.png)
 August 2023 - Thesis for Ecological Justice
 ____________
 How can we grow into social fields that heal each other and are conducive to a thriving existence of all beings?

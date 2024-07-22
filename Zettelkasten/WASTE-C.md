@@ -9,7 +9,7 @@ We passed a house with a burnt-out station wagon lying on its side in the front 
 
 “Yeah. I guess so,” I answered. “I just don't understand it.” [...]
 
-![](../media/cleanshot_2024-02-17-at-09-38-47@2x.png)
+![](media/cleanshot_2024-02-17-at-09-38-47@2x.png)
 
 [Dan] pointed at another of the passing houses. The top of an old Plymouth protruded from a patch of weeds. “What do you see when you look out there?”
 

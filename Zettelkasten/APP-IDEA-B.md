@@ -6,4 +6,4 @@ also see [[MMSDigitalComA]]
 
 
 
-![](../media/cleanshot_2024-04-15-at-01-39-59@2x.png)
+![](media/cleanshot_2024-04-15-at-01-39-59@2x.png)
