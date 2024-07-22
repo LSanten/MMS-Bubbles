@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "note takin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +147,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "41b0daf6efd9817c",
+  "active": "a48d342c986928a4",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2024-07-21.md",
