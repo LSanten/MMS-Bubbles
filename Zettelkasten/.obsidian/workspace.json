@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTETAKING-A.md",
+                "file": "COFFEE-BLOCK-CAPTURE.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTETAKING-A.md",
+                "file": "COFFEE-BLOCK-CAPTURE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTETAKING-A.md",
+                "file": "COFFEE-BLOCK-CAPTURE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTETAKING-A.md"
+                "file": "COFFEE-BLOCK-CAPTURE.md"
               }
             }
           }
@@ -147,8 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a48d342c986928a4",
+  "active": "41b0daf6efd9817c",
   "lastOpenFiles": [
+    "media/cleanshot_2024-07-22-at-16-06-01@2x.png",
+    "media/cleanshot_2024-07-22-at-16-05-43@2x.png",
+    "media/cleanshot_2024-07-22-at-16-05-04@2x.png",
+    "media/cleanshot_2024-07-22-at-16-02-10@2x.png",
+    "cleanshot_2024-07-22-at-16-02-10@2x.png",
+    "COFFEE-BLOCK-CAPTURE.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
     "2024-07-21.md",
     "BIOMIMICRY-A.md",
@@ -164,10 +170,6 @@
     "media/2023-08-20 13-46 Pasted Image-1.png",
     "media/2023-08-20 13-46 Pasted Image-2.png",
     "media/2023-08-20 13-46 Pasted Image-3.png",
-    "media/2023-08-20 13-46 Pasted Image.png",
-    "media/2023-08-20 14-07 Pasted Image.png",
-    "media/2023-08-20 14-11 Pasted Image.png",
-    "media/2023-08-20 14-17 Pasted Image.png",
     "media/IMG_7966.heic",
     "media",
     "untitled folder",
@@ -187,7 +189,6 @@
     "DIALOGUE-A.md",
     "ECON-GROWTH-A.md",
     "ELECYT-MUSIC-VIZ-IDEAS.md",
-    "ECOLOGY-A.md",
-    "ELECYT-LASER-VIZ-A.md"
+    "ECOLOGY-A.md"
   ]
 }
