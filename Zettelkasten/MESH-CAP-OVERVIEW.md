@@ -8,7 +8,6 @@ Here, I organize all the floating bits and pieces of my capstone project for my 
 - [[MESH-CAP-G]] Tangible creations list for collecting all deliverable pieces
 - [[MESH-CAP-H]] Things I want to ask people
 - [[MESH-CAP-I]] Contemplating project aims and ways to say them
-- 
 ## Collaboration & conversational inquiry
 - [[MESH-CAP-A]] Collective creating or organizing with a file type  
 - [[MESH-CAP-C]] Visual space for sharing of needs and collaboration around ideas 

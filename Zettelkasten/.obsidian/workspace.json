@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COFFEE-BLOCK-CAPTURE.md",
+                "file": "ANARCH-COUPLE-A.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "history",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "COFFEE-BLOCK-CAPTURE.md",
+                "file": "ANARCH-COUPLE-A.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "COFFEE-BLOCK-CAPTURE.md",
+                "file": "ANARCH-COUPLE-A.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COFFEE-BLOCK-CAPTURE.md"
+                "file": "ANARCH-COUPLE-A.md"
               }
             }
           }
@@ -148,12 +148,22 @@
   },
   "active": "41b0daf6efd9817c",
   "lastOpenFiles": [
+    "ADAPT-CYCLES-A.md",
+    "media/cleanshot_2024-07-21-at-20-41-00@2x.png",
+    "crystal-huang.md",
+    "gopal-dayaneni.md",
+    "org-movement-building.md",
+    "org-people-power-solar-cooperative.md",
+    "APP-IDEA-B.md",
+    "MMSHistOfSci-A.md",
+    "MESH-CAP-OVERVIEW.md",
+    "MESH-CAP-VERIF-A.md",
+    "COFFEE-BLOCK-CAPTURE.md",
     "media/cleanshot_2024-07-22-at-16-06-01@2x.png",
     "media/cleanshot_2024-07-22-at-16-05-43@2x.png",
     "media/cleanshot_2024-07-22-at-16-05-04@2x.png",
     "media/cleanshot_2024-07-22-at-16-02-10@2x.png",
     "cleanshot_2024-07-22-at-16-02-10@2x.png",
-    "COFFEE-BLOCK-CAPTURE.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "2024-07-21.md",
@@ -162,33 +172,22 @@
     "AYURVEDA-DOSHAS.md",
     "APPS-USEFUL-A.md",
     "APP-IDEA-C.md",
-    "APP-IDEA-B.md",
     "media/0A68EA44-C3F0-4655-9480-D6A89A2F6F35_1_201_a.heic",
     "media/1200px-Power_system_layout.png",
     "media/2023-07-30 22-50 Pasted Image.png",
     "media/2023-08-20 13-45 Pasted Image.png",
     "media/2023-08-20 13-46 Pasted Image-1.png",
-    "media/2023-08-20 13-46 Pasted Image-2.png",
-    "media/2023-08-20 13-46 Pasted Image-3.png",
     "media/IMG_7966.heic",
     "media",
     "untitled folder",
     "APP-IDEA-A.md",
     "AGRICULTURE-A.md",
     "MMSSocialReproductionB.md",
-    "MESH-CAP-OVERVIEW.md",
     "CIRCULAR-ECON-A.md",
     "CERT-ORG.md",
     "AUTOPOIESIS-A.md",
     "202309131344.md",
     "ADAPT-CHANGE.md",
-    "ANARCH-COUPLE-A.md",
-    "ADAPT-CYCLES-A.md",
-    "ENGINEERING-A.md",
-    "MILIT-A.md",
-    "DIALOGUE-A.md",
-    "ECON-GROWTH-A.md",
-    "ELECYT-MUSIC-VIZ-IDEAS.md",
-    "ECOLOGY-A.md"
+    "ANARCH-COUPLE-A.md"
   ]
 }
